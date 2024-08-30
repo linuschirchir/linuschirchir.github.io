@@ -1,19 +1,65 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+  
 website:
-  title: "linuschirchir.github.io"
+  title: "Linus Chirchir"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Blog
+        href: blog.qmd
+    right:
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/LinusChirchir/
+        target: _blank
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/LinusChirchir
+        target: _blank
+      - icon: facebook
+        aria-label: Facebook
+        href: https://facebook.com/ChirchirLinus1
+        target: _blank
+      - icon: twitter
+        aria-label: Twitter
+        href: https://twitter.com/LinusChirchir
+        target: _blank
+      - icon: envelope
+        aria-label: Contact
+        href: mailto:linus@linuschirchir.com
+        target: _blank
+
+  page-footer:
+    border: true
+    left: |
+      <div style="text-align: left;">&#169; 2024 Linus Chirchir</div>
+    center: |
+      <div style="text-align: center;"><strong>[GitHub Repo](https://linuschirchir.github.io/){target="_blank"}</strong></div>
+    right: |
+      <div style="text-align: right;"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></div>
+    background: "#4169E1"
 
 format:
   html:
-    theme: cosmo
+    grid: 
+      body-width: 2000px
+      sidebar-width: 200px
+      margin-width: 200px
+    theme:
+      light: [cosmo, light.scss]
+      dark: [cosmo, dark.scss]
     css: styles.css
-    toc: true
-
-
-
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#4169E1"

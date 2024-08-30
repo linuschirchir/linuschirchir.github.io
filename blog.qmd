@@ -1,0 +1,66 @@
+## Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty
+
+::: columns
+::: {.column width="55%"}
+Landing in Swansea, Wales, UK, in late December 2021 from Eldoret, Kenya marked the beginning of a transformative journey during one of the most challenging times in recent history. The world was grappling with the peak of the Coronavirus disease (COVID-19) pandemic, and the outbreak of a new variant, Omicron, was a stark reminder of the urgency and importance of Health Data Science (HDS). Driven by a passion for using data to solve complex health challenges, I embarked on my master’s studies in HDS.
+
+During my studies, I explored courses such as Machine Learning (ML), Data Modelling, Data Visualisation, Bioinformatics for Genome Analysis, Analysis of Linked Health Data, and Scientific Computing in Healthcare. My dissertation “Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning,”... [Read the full article on Medium](https://medium.com/@linuschirchir/navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty-cd7017b89086){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/hip_knee.webp)
+:::
+:::
+
+## How to Draw a Christmas Tree Using Crayon in R
+
+::: columns
+::: {.column width="40%"}
+![](images/xmas.webp)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+Christmas is approaching and this makes it a great time to write a festive tutorial to help you learn R.
+
+Overview
+
+This script creates a colorful Christmas tree in your R console. It uses the crayon package to add colors to the tree and prints a festive message below it.
+
+Prerequisites
+
+· R environment (such as RStudio)
+
+· Basic knowledge of running R scripts
+
+· Instructions
+
+Step 1: Installation and Setup
+
+The script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to.... [Read the full article on Medium](https://medium.com/@linuschirchir/how-to-draw-a-christmas-tree-using-crayon-in-r-493f603f6462){target="_blank"}
+:::
+:::
+
+## Analysing PostgreSQL Data in R
+
+::: columns
+::: {.column width="55%"}
+PostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.
+
+To get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.
+
+R on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of... [Read the full article on Medium](https://medium.com/@linuschirchir/analysing-postgresql-data-in-r-7ea2b2565ba7){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/PostgreSQL.webp)
+:::
+:::

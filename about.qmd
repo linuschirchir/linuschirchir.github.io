@@ -1,9 +1,47 @@
 ---
-title: "About"
+pagetitle: "Linus Chirchir | Data Scientist"
+title: "About" 
+subtitle: "Data Analyst at Research Data Scotland"
+image: images/profile.jpg
+image-alt: "Thats Me."
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      aria-label: LinkedIn
+      href: https://www.linkedin.com/in/LinusChirchir/
+    - icon: github
+      text: GitHub
+      aria-label: GitHub
+      href: https://github.com/LinusChirchir
+    - icon: facebook
+      text: Facebook
+      aria-label: Facebook
+      href: https://facebook.com/ChirchirLinus1
+    - icon: twitter
+      text: Twitter
+      aria-label: Twitter
+      href: https://twitter.com/LinusChirchir
+    - icon: envelope
+      text: Contact
+      aria-label: Contact
+      href: mailto:linus@linuschirchir.com
+toc: false
+anchor-sections: false
+execute: 
+  freeze: true
 ---
 
-About this site
+::: {#hero-heading}
+I am a Data Scientist with over 13 years of experience in health information systems, healthcare research and analytics.
 
-```{r}
-1 + 1
-```
+My core competencies include cleaning and merging existing datasets, conducting analyses of routinely collected National Health Service (NHS) and administrative datasets, developing and implementing data analyses and collection systems, and contributing to manuscripts for publication in peer-reviewed journals.
+
+My mission is to leverage data science, artificial intelligence and machine learning to improve health outcomes, quality of care, and operational efficiency in the health sector.
+
+Passionate about storytelling with data, insights, & impact 📊. Decoding the world's health stories!
+:::

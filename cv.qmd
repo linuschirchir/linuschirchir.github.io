@@ -1,0 +1,147 @@
+---
+title: |
+  <h1 style="text-align: center;">Curriculum Vitae</h1>
+execute: 
+  freeze: true
+anchor-sections: false
+---
+
+## Personal Profile
+
+Experienced Data Scientist with 13+ years of professional experience in health information systems, research, and analytics. Specialised in cleaning, linking, and analysing large datasets, particularly in the context of the National Health Service (NHS). Skilled in leveraging data science methodologies and machine learning techniques to drive improvements in healthcare quality, patient outcomes, and operational efficiency. Proven track record of contributing to academic publications and effective cross-functional collaboration.
+
+## Work Experience
+
+### **Data Analyst, [Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"}, Edinburgh, United Kingdom 09/2024 - Current**
+
+-   Assess the suitability of administrative datasets for ingestion into Scotland’s National Safe Haven and linkage to other research datasets, identifying appropriate methods for collation, preparation, and updating, including data cleaning and quality assurance.
+
+-   Update datasets already held within the National Safe Haven, ensuring they meet current standards and requirements.
+
+-   Follow established processes and produce comprehensive documentation to track progress and aid researchers in understanding the purpose and content of the datasets, including preparing data dictionaries and collating metadata.
+
+-   Coordinate and communicate with external partner organisations to ensure dataset processing aligns with business objectives.
+
+-   Report progress to team members and external partner organisations to ensure effective delivery of the data sourcing pathway.
+
+### **Health Data Analyst, [University of Edinburgh](https://www.ed.ac.uk/profile/linus-chirchir){target="_blank"}, Edinburgh, United Kingdom 09/2023 - 06/2024**
+
+-   Utilised SQL and R to clean and merge datasets, consolidating over 13,000 records from various Excel files into a unified dataset, which reduced data processing time by 50% and improved data accessibility for analysis by 30%.
+
+-   Leveraged R for comprehensive analyses of NHS and administrative datasets, applying statistical techniques to generate actionable insights that directly impacted service improvements for over 500 patients. Developed and implemented R-based data analysis pipelines, optimising statistical efficiency and data quality, resulting in a 20% increase in data processing speed and a 15% reduction in data errors, enhancing research accuracy.
+
+-   Contributed to manuscripts for peer-reviewed journals, ensuring methodological rigour and reproducibility through R-generated analyses. This effort led to a 25% increase in publication acceptance rates, enhancing the visibility and impact of the research.
+
+-   Developed an Orthopaedic Surgery Dashboard using Shiny, featuring interactive visualisations that displayed demographics, patient-reported measures, consultant performance metrics, and patient satisfaction. The Dashboard provided valuable insights, reducing manual data analysis time by 40%, increasing data-driven decision-making by 50%, and improving patient care outcomes, contributing to a 15% increase in overall patient satisfaction.
+
+-   Engaged collaboratively in weekly meetings, serving as the liaison between the Data Controller and Research Database Manager, aligning project goals and data requirements, improving project completion timelines by 10%, and facilitating better team coordination.
+
+### **ICT Officer/Researcher, [Moi Teaching and Referral Hospital](https://www.mtrh.go.ke/){target="_blank"}, Eldoret, Kenya 07/2008 - 12/2021**
+
+-   Identified, analysed, and interpreted trends and patterns in 104 health-related datasets, leading to actionable insights that improved healthcare service delivery, resulting in a 15% increase in patient satisfaction.
+
+-   Formed hypotheses and tested ideas to determine the viability of operational outcomes, resulting in data-driven recommendations that optimised resource allocation and enhanced service efficiency, saving the organisation approximately 10% in operational costs.
+
+-   Used SQL to develop KPIs in collaboration with cross-functional teams, resulting in a 103% increase in organic traffic to the organisational website, significantly enhancing its visibility and reach.
+
+-   Collaborated with department managers to identify and correct data problems, improving data accuracy and reliability, which enhanced data analysis effectiveness by 40%.
+
+-   Led the development and implementation of interactive data visualisations within the organisation, increasing user engagement by 35% and improving data comprehension among stakeholders.
+
+## Teaching Experience
+
+### **Part-time Lecturer, [University of Eldoret](https://www.uoeld.ac.ke/){target="_blank"}, Eldoret,Kenya Jan 2015 – Dec 2021**
+
+Courses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems.
+
+## Skills
+
+**Key Skills:** Proficient in data cleaning, exploration, modeling, machine learning, visualization, and database management.
+
+**Technical Tools:** Skilled in R, SQL, Git (GitHub), Tableau, Power BI, QGIS, SPSS, and advanced Excel.
+
+**Specialised Packages:** Expertise in parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival,  forecast, and R Markdown
+
+**Statistical Techniques:** Experienced in quantitative and qualitative analytics, including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series, and hypothesis testing.
+
+## Education
+
+### [**Swansea University**](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/){target="_blank"}**, Swansea, United Kingdom, Master of Science in Health Data Science 01/2022 - 05/2023**
+
+-   **Modules Taken:** Machine Learning in Healthcare, Health Data Modelling, Health Data Visualisation, Bioinformatics for Genome Analysis, Introductory Analysis of Linked Health Data and Scientific Computing and Health Care
+
+-   **Dissertation:** Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning.
+
+### [**United States International University - Africa**](https://www.usiu.ac.ke/742/mba-health-leadership-management/){target="_blank"}**, Nairobi, Kenya, Master of Business Administration (MBA) 09/2018 - 08/2019**
+
+-   **Relevant Coursework:** Business Statistics, Business Research Methods, Project Management and Fundraising, Strategic Management and Leadership and Ethics
+
+-   **Project:** Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Eldoret, Kenya.
+
+### [**Kisii University**](https://kisiiuniversity.ac.ke/%D7%97%D7%96%D7%99%D7%AA%D7%99l/d/school-of-information-technology/academics){target="_blank"}**, Kisii, Kenya, Master of Information Systems (MIS) 01/2014 - 12/2015**
+
+-   Relevant Coursework: Advanced Database Systems • Research Methods • Information Retrieval and Analysis • Software Project Management • Web Application Development
+
+-   Thesis: Effects of Health Information Systems on user Performance: A Survey of Health Organisations in Uasin Gishu County, Kenya.
+
+### [**Moi University**](https://business.mu.ac.ke/index.php/undergraduate-programmes/42-programmes/undergraduate/119-bachelor-of-business-management-bbm){target="_blank"}**, Eldoret, Kenya, Bachelor of Business Management 09/2008 - 12/2012**
+
+-   **Relevant Coursework:** Database Management Systems, Database Design and Implementation, Managerial Statistics, Operations Research I, Business Systems Analysis and Design, Advanced Programming, Programming in COBOL, Practical Accounting Data Processing, Introduction to Programming I & II and Introduction to Computer Science
+
+## Professional Service
+
+-   Peer Reviewer, PLoS ONE, Journal of Medical Internet Research (JMIR), JMIR Medical Informatics, JMIR Bioinformatics and Biotechnology, JMIR Perioperative Medicine and JMIR Formative Research 03/2021 ¬- Current
+
+## Professional Affiliations
+
+-   Fellow of the Royal Statistical Society (FRSS) 08/2024 - Current
+
+-   Member, Institute for Operations Research and the Management Sciences (INFORMS) 08/2023 - Current
+
+-   Member, Association of Professional Healthcare Analysts (AphA) 02/2022 - Current
+
+## Certifications
+
+-   ISO/IEC 27001:2013 Information Security Management Systems Lead Audit Course, 25th - 30th October 2021
+
+-   Certified Publons Academy Mentor, Starting April, 2021
+
+-   ISO 9001:2015 Quality Management Systems Internal Auditor Course, 8th - 11th December 2020
+
+-   Certified Publons Academy Peer Reviewer, Starting September, 2020
+
+-   ISO/IEC 27001:2013 Information Security Management Systems Internal Auditor Course, 20th - 22nd June 2018
+
+-   ISO/IEC 27001:2013 Information Security Management Systems Lead Implementer Course, 13th - 14th and 16th June 2018
+
+# Publications
+
+## Peer Reviewed Conferences
+
+-   Chirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. <a href="https://aisel.aisnet.org/pacis2021/230/" target="_blank"><https://aisel.aisnet.org/pacis2021/230/></a>.
+
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. <a href="https://doi.org/10.1016/j.procs.2021.01.187" target="_blank"><https://doi.org/10.1016/j.procs.2021.01.187></a>
+
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank"><https://doi.org/10.3233/SHTI200506></a>
+
+## Peer Reviewed Journal Articles
+
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank"><https://doi.org/10.1080/20421338.2020.1777676></a>
+
+-   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. <a href="http://doi.org/10.11591/ijphs.v8i3.20238" target="_blank"><http://doi.org/10.11591/ijphs.v8i3.20238></a>
+
+-   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. <a href="http://doi.org/10.30845/ijbss.v10n7p14" target="_blank"><http://doi.org/10.30845/ijbss.v10n7p14></a>
+
+-   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. <a href="http://doi.org/10.7176/JHMN/64-02" target="_blank"><http://doi.org/10.7176/JHMN/64-02></a>
+
+-   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). [Strategies for Improving Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya](https://www.strategicjournals.com/index.php/journal/article/view/1275){target="_blank"}. The Strategic Journal of Business & Change Management, 6 (3), 216 – 226.
+
+-   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). [Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue7/Series-4/B2407041122.pdf){target="_blank"}. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.
+
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2019). [Perceived Usefulness and Ease of Use as Mediators of the Effect of Health Information Systems on User Performance](https://eajournals.org/ejcsit/vol-7-issue-1-february-2019/perceived-usefulness-and-ease-of-use-as-mediators-of-the-effect-of-health-information-systems-on-user-performance/){target="_blank"}. European Journal of Computer Science and Information Technology, 7 (1), 22 – 37.
+
+-   Ireri, E. N., Omondi, Y. A., Chirchir, L. K., & Wafula, M. K. (2015). [Adoption of Enterprise Resource Planning System in Kenya: A Case Study of Kenya Ordnance Factories Corporation](https://www.journalcra.com/article/adoption-enterprise-resource-planning-system-kenya-case-study-kenya-ordnance-factories){target="_blank"}. International Journal of Current Research, 7 (4), 14702 – 14711.
+
+## Unpublished Manuscript
+
+-   Chirchir, L. K. (2024). Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning. Manuscript in Preparation.

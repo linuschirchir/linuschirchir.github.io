@@ -1,11 +1,53 @@
 ---
-title: "linuschirchir.github.io"
+pagetitle: "Linus Chirchir | Data Scientist"
+title: "Linus Chirchir" 
+subtitle: |
+  <h5 style="text-align: center;">Data Analyst at Research Data Scotland</h5>
+image: images/profile.jpg
+image-alt: "Thats Me."
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      aria-label: LinkedIn
+      href: https://www.linkedin.com/in/LinusChirchir/
+      target: _blank
+    - icon: github
+      text: GitHub
+      aria-label: GitHub
+      href: https://github.com/LinusChirchir
+      target: _blank
+    - icon: facebook
+      text: Facebook
+      aria-label: Facebook
+      href: https://facebook.com/ChirchirLinus1
+      target: _blank
+    - icon: twitter
+      text: Twitter
+      aria-label: Twitter
+      href: https://twitter.com/LinusChirchir
+      target: _blank
+    - icon: envelope
+      text: Contact
+      aria-label: Contact
+      href: mailto:linus@linuschirchir.com
+      target: _blank
+toc: false
+anchor-sections: false
+execute: 
+  freeze: true
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
+I am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialsze in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.
 
-```{r}
-1 + 1
-```
+Proficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍
+
+My mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉
+:::
