@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://linuschirchir.github.io/index.html</loc>
-    <lastmod>2024-08-30T18:23:30.867Z</lastmod>
+    <loc>https://linuschirchir.github.io/cv.html</loc>
+    <lastmod>2024-08-30T18:44:04.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://linuschirchir.github.io/blog.html</loc>
+    <lastmod>2024-08-30T18:44:04.466Z</lastmod>
   </url>
   <url>
     <loc>https://linuschirchir.github.io/about.html</loc>
-    <lastmod>2024-08-30T18:23:30.867Z</lastmod>
+    <lastmod>2024-08-30T18:44:04.466Z</lastmod>
+  </url>
+  <url>
+    <loc>https://linuschirchir.github.io/projects.html</loc>
+    <lastmod>2024-08-30T18:44:04.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://linuschirchir.github.io/index.html</loc>
+    <lastmod>2024-08-30T18:44:04.470Z</lastmod>
   </url>
 </urlset>
