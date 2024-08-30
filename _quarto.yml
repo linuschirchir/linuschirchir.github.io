@@ -43,7 +43,7 @@ website:
     left: |
       <div style="text-align: left;">&#169; 2024 Linus Chirchir</div>
     center: |
-      <div style="text-align: center;"><strong>[GitHub Repo](https://linuschirchir.github.io/){target="_blank"}</strong></div>
+      <div style="text-align: center;"><strong>[GitHub Repo](https://github.com/linuschirchir/linuschirchir.github.io){target="_blank"}</strong></div>
     right: |
       <div style="text-align: right;"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></div>
     background: "#4169E1"
