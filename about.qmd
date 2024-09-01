@@ -37,11 +37,11 @@ execute:
 ---
 
 ::: {#hero-heading}
-I am a Data Scientist with over 13 years of experience in health information systems, healthcare research and analytics.
+I am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈
 
-My core competencies include cleaning and merging existing datasets, conducting analyses of routinely collected National Health Service (NHS) and administrative datasets, developing and implementing data analyses and collection systems, and contributing to manuscripts for publication in peer-reviewed journals.
+I am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.
 
-My mission is to leverage data science, artificial intelligence and machine learning to improve health outcomes, quality of care, and operational efficiency in the health sector.
+Proficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍
 
-Passionate about storytelling with data, insights, & impact 📊. Decoding the world's health stories!
+My mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉
 :::
