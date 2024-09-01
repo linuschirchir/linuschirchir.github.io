@@ -30,8 +30,8 @@ website:
         href: https://facebook.com/ChirchirLinus1
         target: _blank
       - icon: twitter
-        aria-label: Twitter
-        href: https://twitter.com/LinusChirchir
+        aria-label: X
+        href: https://x.com/LinusChirchir
         target: _blank
       - icon: envelope
         aria-label: Contact

@@ -28,8 +28,8 @@ about:
       target: _blank
     - icon: twitter
       text: Twitter
-      aria-label: Twitter
-      href: https://twitter.com/LinusChirchir
+      aria-label: X
+      href: https://x.com/LinusChirchir
       target: _blank
     - icon: envelope
       text: Contact
