@@ -118,25 +118,25 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 
 ## Peer Reviewed Conferences
 
--   Chirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. <a href="https://aisel.aisnet.org/pacis2021/230/" target="_blank"><https://aisel.aisnet.org/pacis2021/230/></a>.
+-   Chirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. <a href="https://aisel.aisnet.org/pacis2021/230/" target="_blank">https://aisel.aisnet.org/pacis2021/230/</a>.
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. <a href="https://doi.org/10.1016/j.procs.2021.01.187" target="_blank"><https://doi.org/10.1016/j.procs.2021.01.187></a>
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. <a href="https://doi.org/10.1016/j.procs.2021.01.187" target="_blank">https://doi.org/10.1016/j.procs.2021.01.187</a>.
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank"><https://doi.org/10.3233/SHTI200506></a>
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank">https://doi.org/10.3233/SHTI200506</a>.
 
 ## Peer Reviewed Journal Articles
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank"><https://doi.org/10.1080/20421338.2020.1777676></a>
+-   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank">https://doi.org/10.1080/20421338.2020.1777676</a>.
 
--   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. <a href="http://doi.org/10.11591/ijphs.v8i3.20238" target="_blank"><http://doi.org/10.11591/ijphs.v8i3.20238></a>
+-   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. <a href="http://doi.org/10.11591/ijphs.v8i3.20238" target="_blank">http://doi.org/10.11591/ijphs.v8i3.20238</a>.
 
--   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. <a href="http://doi.org/10.30845/ijbss.v10n7p14" target="_blank"><http://doi.org/10.30845/ijbss.v10n7p14></a>
+-   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. <a href="http://doi.org/10.30845/ijbss.v10n7p14" target="_blank">http://doi.org/10.30845/ijbss.v10n7p14</a>.
 
--   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. <a href="http://doi.org/10.7176/JHMN/64-02" target="_blank"><http://doi.org/10.7176/JHMN/64-02></a>
+-   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. <a href="http://doi.org/10.7176/JHMN/64-02" target="_blank">http://doi.org/10.7176/JHMN/64-02</a>.
 
 -   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). [Strategies for Improving Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya](https://www.strategicjournals.com/index.php/journal/article/view/1275){target="_blank"}. The Strategic Journal of Business & Change Management, 6 (3), 216 – 226.
 
--   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). [Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue7/Series-4/B2407041122.pdf){target="_blank"}. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.
+-   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). [Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya](https://iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue7/Series-4/B2407041122.pdf){target="_blank"}. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.
 
 -   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2019). [Perceived Usefulness and Ease of Use as Mediators of the Effect of Health Information Systems on User Performance](https://eajournals.org/ejcsit/vol-7-issue-1-february-2019/perceived-usefulness-and-ease-of-use-as-mediators-of-the-effect-of-health-information-systems-on-user-performance/){target="_blank"}. European Journal of Computer Science and Information Technology, 7 (1), 22 – 37.
 
