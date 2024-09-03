@@ -11,11 +11,11 @@ website:
       - text: Home
         href: index.qmd
       - text: Projects
-        href: Projects.qmd
+        href: projects.qmd
       - text: CV
-        href: CV.qmd
+        href: cv.qmd
       - text: Blog
-        href: Blog.qmd
+        href: blog.qmd
     right:
       - icon: linkedin
         aria-label: LinkedIn
