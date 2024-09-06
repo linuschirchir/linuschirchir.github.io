@@ -1,5 +1,10 @@
 project:
   type: website
+  preview:
+    port: 3434
+    browser: true
+    watch-inputs: true
+    timeout: 3600
 
 execute:
   freeze: auto
@@ -9,12 +14,16 @@ website:
   navbar:
     left:
       - text: Home
+        icon: house-fill
         href: index.qmd
       - text: Projects
+        icon: clipboard-check-fill
         href: projects.qmd
       - text: CV
+        icon: person-lines-fill
         href: cv.qmd
       - text: Blog
+        icon: journal-text
         href: blog.qmd
     right:
       - icon: linkedin
@@ -45,7 +54,7 @@ website:
     center: |
       <div style="text-align: center;"><strong>[GitHub Repo](https://github.com/linuschirchir/linuschirchir.github.io){target="_blank"}</strong></div>
     right: |
-      <div style="text-align: right;"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></div>
+      <div style="text-align: right;"><strong>[Report an Issue](https://github.com/linuschirchir/linuschirchir.github.io/issues/new){target="_blank"}</strong></div>
     background: "#4169E1"
 
 format:
