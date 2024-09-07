@@ -1,5 +1,5 @@
 ---
-pagetitle: "Data Scientist"
+pagetitle: "Linus Circhir: Data Scientist"
 title: "Linus Chirchir" 
 subtitle: |
   <h5 style="text-align: center;">Data Analyst at Research Data Scotland</h5>

@@ -12,6 +12,9 @@ execute:
 website:
   title: "Linus Chirchir"
   navbar:
+    pinned: true
+    logo: images/logo.png
+    logo-alt: "Linus Chirchir Logo"
     left:
       - text: Home
         icon: house-fill

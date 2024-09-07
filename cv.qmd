@@ -2,9 +2,6 @@
 execute: 
   freeze: true
 anchor-sections: false
-format: 
-  html:
-    page-title: "Curriculum Vitae"  # Sets the HTML page title
 ---
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
@@ -216,7 +213,7 @@ Here is the modified version without the headings:
 
 -   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank">https://doi.org/10.3233/SHTI200506</a>.
 
-### <i class="fas fa-file-alt"></i> Peer Reviewed Journal Articles
+### <i class="fas fa-book-open"></i> Peer Reviewed Journal Articles
 
 -   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank">https://doi.org/10.1080/20421338.2020.1777676</a>.
 
