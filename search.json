@@ -9,126 +9,126 @@
   {
     "objectID": "cv.html#personal-profile",
     "href": "cv.html#personal-profile",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Personal Profile",
     "text": "Personal Profile\nExperienced Data Scientist with 13+ years of professional experience in health information systems, research, and analytics. Specialised in cleaning, linking, and analysing large datasets, particularly in the context of the National Health Service (NHS). Skilled in leveraging data science methodologies and machine learning techniques to drive improvements in healthcare quality, patient outcomes, and operational efficiency. Proven track record of contributing to academic publications and effective cross-functional collaboration."
   },
   {
     "objectID": "cv.html#work-experience",
     "href": "cv.html#work-experience",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Work Experience",
     "text": "Work Experience\n\n\n\n\n\nResearch Data Scotland, Edinburgh, United Kingdom, Data Analyst, 09/2024 - Present\n\n\n\nAssess the suitability of administrative datasets for ingestion into Scotland’s National Safe Haven and linkage to other research datasets, identifying appropriate methods for collation, preparation, and updating, including data cleaning and quality assurance.\nUpdate datasets already held within the National Safe Haven, ensuring they meet current standards and requirements.\nFollow established processes and produce comprehensive documentation to track progress and aid researchers in understanding the purpose and content of the datasets, including preparing data dictionaries and collating metadata.\nCoordinate and communicate with external partner organisations to ensure dataset processing aligns with business objectives.\nReport progress to team members and external partner organisations to ensure effective delivery of the data sourcing pathway.\n\n\n\n\n\n\nUniversity of Edinburgh, Edinburgh, United Kingdom, Health Data Analyst, 09/2023 - 06/2024\n\n\n\nUtilised SQL and R to clean and merge datasets, consolidating over 13,000 records from various Excel files into a unified dataset, which reduced data processing time by 50% and improved data accessibility for analysis by 30%.\nLeveraged R for comprehensive analyses of NHS and administrative datasets, applying statistical techniques to generate actionable insights that directly impacted service improvements for over 500 patients. Developed and implemented R-based data analysis pipelines, optimising statistical efficiency and data quality, resulting in a 20% increase in data processing speed and a 15% reduction in data errors, enhancing research accuracy.\nContributed to manuscripts for peer-reviewed journals, ensuring methodological rigour and reproducibility through R-generated analyses. This effort led to a 25% increase in publication acceptance rates, enhancing the visibility and impact of the research.\nDeveloped an Orthopaedic Surgery Dashboard using Shiny, featuring interactive visualisations that displayed demographics, patient-reported measures, consultant performance metrics, and patient satisfaction. The Dashboard provided valuable insights, reducing manual data analysis time by 40%, increasing data-driven decision-making by 50%, and improving patient care outcomes, contributing to a 15% increase in overall patient satisfaction.\nEngaged collaboratively in weekly meetings, serving as the liaison between the Data Controller and Research Database Manager, aligning project goals and data requirements, improving project completion timelines by 10%, and facilitating better team coordination.\n\n\n\n\n\n\nMoi Teaching and Referral Hospital, Eldoret, Kenya, ICT Officer/Researcher, 07/2008 - 12/2021\n\n\n\nIdentified, analysed, and interpreted trends and patterns in 104 health-related datasets, leading to actionable insights that improved healthcare service delivery, resulting in a 15% increase in patient satisfaction.\nFormed hypotheses and tested ideas to determine the viability of operational outcomes, resulting in data-driven recommendations that optimised resource allocation and enhanced service efficiency, saving the organisation approximately 10% in operational costs.\nUsed SQL to develop KPIs in collaboration with cross-functional teams, resulting in a 103% increase in organic traffic to the organisational website, significantly enhancing its visibility and reach.\nCollaborated with department managers to identify and correct data problems, improving data accuracy and reliability, which enhanced data analysis effectiveness by 40%.\nLed the development and implementation of interactive data visualisations within the organisation, increasing user engagement by 35% and improving data comprehension among stakeholders."
   },
   {
     "objectID": "cv.html#teaching-experience",
     "href": "cv.html#teaching-experience",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Teaching Experience",
     "text": "Teaching Experience\n\n\n\n\n\nUniversity of Eldoret, Eldoret, Kenya, Part-time Lecturer, 01/2015 - 12/2021\n\n\nCourses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems."
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Skills",
     "text": "Skills\nKey Skills: Proficient in data cleaning, exploration, modeling, machine learning, visualization, and database management.\nTechnical Tools: Skilled in R, SQL, Git (GitHub), Tableau, Power BI, QGIS, SPSS, and advanced Excel.\nSpecialised Packages: Expertise in parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival,  forecast, and R Markdown\nStatistical Techniques: Experienced in quantitative and qualitative analytics, including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series, and hypothesis testing."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Education",
     "text": "Education\n\n\n\n\n\nSwansea University, Swansea, United Kingdom, Master of Science in Health Data Science, 01/2022 - 05/2023\n\n\n\nModules Taken: Machine Learning in Healthcare, Health Data Modelling, Health Data Visualisation, Bioinformatics for Genome Analysis, Introductory Analysis of Linked Health Data and Scientific Computing and Health Care\nDissertation: Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning.\n\n\n\n\n\n\nUnited States International University - Africa, Nairobi, Kenya, Master of Business Administration, 09/2018 - 08/2019\n\n\n\nRelevant Coursework: Business Statistics, Business Research Methods, Project Management and Fundraising, Strategic Management and Leadership and Ethics\nProject: Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Eldoret, Kenya.\n\n\n\n\n\n\nKisii University, Kisii, Kenya, Master of Information Systems, 01/2014 - 12/2015\n\n\n\nRelevant Coursework: Advanced Database Systems • Research Methods • Information Retrieval and Analysis • Software Project Management • Web Application Development\nThesis: Effects of Health Information Systems on user Performance: A Survey of Health Organisations in Uasin Gishu County, Kenya.\n\n\n\n\n\n\nMoi University, Eldoret, Kenya, Bachelor of Business Management (Business Information Systems Management), 09/2008 - 12/2012\n\n\n\nRelevant Coursework: Database Management Systems, Database Design and Implementation, Managerial Statistics, Operations Research I, Business Systems Analysis and Design, Advanced Programming, Programming in COBOL, Practical Accounting Data Processing, Introduction to Programming I & II and Introduction to Computer Science"
   },
   {
     "objectID": "cv.html#professional-service",
     "href": "cv.html#professional-service",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Professional Service",
     "text": "Professional Service\nHere is the modified version with the links set to open in new tabs:\n\nPeer Reviewer, PLoS ONE, Journal of Medical Internet Research (JMIR), JMIR Medical Informatics, JMIR Bioinformatics and Biotechnology, JMIR Perioperative Medicine, and JMIR Formative Research 03/2021 - Present"
   },
   {
     "objectID": "cv.html#professional-affiliations",
     "href": "cv.html#professional-affiliations",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Professional Affiliations",
     "text": "Professional Affiliations\nHere is the modified version without the headings:\n\n\n\n\nRoyal Statistical Society (RSS), Fellow of the Royal Statistical Society (FRSS), 08/2024 - Present\n\n\n\n\n\nInstitute for Operations Research and the Management Sciences (INFORMS), Member, 08/2023 - Present\n\n\n\n\n\nAssociation of Professional Healthcare Analysts (AphA), Member, 02/2022 - Present"
   },
   {
     "objectID": "cv.html#certifications",
     "href": "cv.html#certifications",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Certifications",
     "text": "Certifications\n\nISO/IEC 27001:2013 Information Security Management Systems Lead Audit Course, 25th - 30th October 2021\nCertified Publons Academy Mentor, Starting April, 2021\nISO 9001:2015 Quality Management Systems Internal Auditor Course, 8th - 11th December 2020\nCertified Publons Academy Peer Reviewer, Starting September, 2020\nISO/IEC 27001:2013 Information Security Management Systems Internal Auditor Course, 20th - 22nd June 2018\nISO/IEC 27001:2013 Information Security Management Systems Lead Implementer Course, 13th - 14th and 16th June 2018"
   },
   {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Publications",
     "text": "Publications\n\n Peer Reviewed Conferences\n\nChirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. https://aisel.aisnet.org/pacis2021/230/.\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. https://doi.org/10.1016/j.procs.2021.01.187.\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. https://doi.org/10.3233/SHTI200506.\n\n\n\n Peer Reviewed Journal Articles\n\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. https://doi.org/10.1080/20421338.2020.1777676.\nAruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. http://doi.org/10.11591/ijphs.v8i3.20238.\nChebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. http://doi.org/10.30845/ijbss.v10n7p14.\nAruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. http://doi.org/10.7176/JHMN/64-02.\nAruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Strategies for Improving Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. The Strategic Journal of Business & Change Management, 6 (3), 216 – 226.\nChebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2019). Perceived Usefulness and Ease of Use as Mediators of the Effect of Health Information Systems on User Performance. European Journal of Computer Science and Information Technology, 7 (1), 22 – 37.\nIreri, E. N., Omondi, Y. A., Chirchir, L. K., & Wafula, M. K. (2015). Adoption of Enterprise Resource Planning System in Kenya: A Case Study of Kenya Ordnance Factories Corporation. International Journal of Current Research, 7 (4), 14702 – 14711."
   },
   {
     "objectID": "cv.html#unpublished-manuscript",
     "href": "cv.html#unpublished-manuscript",
-    "title": "\nCurriculum Vitae\n",
+    "title": "Curriculum Vitae",
     "section": " Unpublished Manuscript",
     "text": "Unpublished Manuscript\n\nChirchir, L. K. (2024). Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning. Manuscript in Preparation."
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Linus Chirchir",
+    "title": "Blog",
     "section": "",
     "text": "Welcome to my blog, where I explore the dynamic world of Data Science, Artificial Intelligence, and Machine Learning. Here, you’ll find insights, tutorials, and real-world applications aimed at demystifying complex concepts and showcasing the power of data-driven decision-making. Whether you’re a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and let’s learn together!"
   },
   {
     "objectID": "blog.html#navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty",
     "href": "blog.html#navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty",
-    "title": "Linus Chirchir",
+    "title": "Blog",
     "section": "Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty",
     "text": "Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty\n\n\nLanding in Swansea, Wales, UK, in late December 2021 from Eldoret, Kenya marked the beginning of a transformative journey during one of the most challenging times in recent history. The world was grappling with the peak of the Coronavirus disease (COVID-19) pandemic, and the outbreak of a new variant, Omicron, was a stark reminder of the urgency and importance of Health Data Science (HDS). Driven by a passion for using data to solve complex health challenges, I embarked on my master’s studies in HDS.\nDuring my studies, I explored courses such as Machine Learning (ML), Data Modelling, Data Visualisation, Bioinformatics for Genome Analysis, Analysis of Linked Health Data, and Scientific Computing in Healthcare. My dissertation “Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning,”… Read the full article on Medium"
   },
   {
     "objectID": "blog.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
     "href": "blog.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
-    "title": "Linus Chirchir",
+    "title": "Blog",
     "section": "How to Draw a Christmas Tree Using Crayon in R",
     "text": "How to Draw a Christmas Tree Using Crayon in R\n\n\n\n\n\n\nChristmas is approaching and this makes it a great time to write a festive tutorial to help you learn R.\nOverview\nThis script creates a colorful Christmas tree in your R console. It uses the crayon package to add colors to the tree and prints a festive message below it.\nPrerequisites\n· R environment (such as RStudio)\n· Basic knowledge of running R scripts\n· Instructions\nStep 1: Installation and Setup\nThe script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to…. Read the full article on Medium"
   },
   {
     "objectID": "blog.html#analysing-postgresql-data-in-r",
     "href": "blog.html#analysing-postgresql-data-in-r",
-    "title": "Linus Chirchir",
+    "title": "Blog",
     "section": "Analysing PostgreSQL Data in R",
     "text": "Analysing PostgreSQL Data in R\n\n\nPostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.\nTo get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.\nR on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of… Read the full article on Medium"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Linus Chirchir",
+    "title": "Home",
     "section": "",
     "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Facebook\n  \n  \n    \n     Twitter\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈\nI am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.\nProficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍\nMy mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Linus Chirchir",
+    "title": "Projects",
     "section": "",
     "text": "Welcome to my projects page, where I explore the dynamic world of Data Science, Artificial Intelligence, and Machine Learning. Here, you’ll find hands-on projects, innovative solutions, and real-world applications aimed at showcasing the power of data-driven decision-making. Whether you’re a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and explore how data is transforming industries through these exciting projects!"
   },
   {
     "objectID": "projects.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
     "href": "projects.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
-    "title": "Linus Chirchir",
+    "title": "Projects",
     "section": "How to Draw a Christmas Tree Using Crayon in R",
     "text": "How to Draw a Christmas Tree Using Crayon in R\n\n\n\n\n\n\nChristmas is approaching and this makes it a great time to write a festive tutorial to help you learn R.\nOverview\nThis script creates a colorful Christmas tree in your R console. It uses the crayon package to add colors to the tree and prints a festive message below it.\nPrerequisites\n· R environment (such as RStudio)\n· Basic knowledge of running R scripts\n· Instructions\nStep 1: Installation and Setup\nThe script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to…. Read the full article on Medium"
   },
   {
     "objectID": "projects.html#analysing-postgresql-data-in-r",
     "href": "projects.html#analysing-postgresql-data-in-r",
-    "title": "Linus Chirchir",
+    "title": "Projects",
     "section": "Analysing PostgreSQL Data in R",
     "text": "Analysing PostgreSQL Data in R\n\n\nPostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.\nTo get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.\nR on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of… Read the full article on Medium"
   }
