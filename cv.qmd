@@ -11,6 +11,7 @@ anchor-sections: false
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <!-- Centering the title -->
+
 <h1 style="text-align: center;">Curriculum Vitae</h1>
 
 ## <i class="fas fa-user"></i> Personal Profile
@@ -91,17 +92,17 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 :::
 :::
 
-Courses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems.
+-  **Courses Taught:** Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems.
 
 ## <i class="fas fa-cogs"></i> Skills
 
-**Key Skills:** Proficient in data cleaning, exploration, modeling, machine learning, visualization, and database management.
+-  **Key Skills:** Proficient in data cleaning, exploration, modeling, machine learning, visualization, and database management.
 
-**Technical Tools:** Skilled in R, SQL, Git (GitHub), Tableau, Power BI, QGIS, SPSS, and advanced Excel.
+-  **Technical Tools:** Skilled in R, SQL, Git (GitHub), Tableau, Power BI, QGIS, SPSS, and advanced Excel.
 
-**Specialised Packages:** Expertise in parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival,  forecast, and R Markdown
+-  **Specialised Packages:** Expertise in parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival,  forecast, and R Markdown
 
-**Statistical Techniques:** Experienced in quantitative and qualitative analytics, including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series, and hypothesis testing.
+- **Statistical Techniques:** Experienced in quantitative and qualitative analytics, including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series, and hypothesis testing.
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
@@ -115,9 +116,9 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 :::
 :::
 
--   **Modules Taken:** Machine Learning in Healthcare, Health Data Modelling, Health Data Visualisation, Bioinformatics for Genome Analysis, Introductory Analysis of Linked Health Data and Scientific Computing and Health Care
+-  **Modules Taken:** Machine Learning in Healthcare, Health Data Modelling, Health Data Visualisation, Bioinformatics for Genome Analysis, Introductory Analysis of Linked Health Data and Scientific Computing and Health Care
 
--   **Dissertation:** Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning.
+-  **Dissertation:** Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning.
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
@@ -129,9 +130,9 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 :::
 :::
 
--   **Relevant Coursework:** Business Statistics, Business Research Methods, Project Management and Fundraising, Strategic Management and Leadership and Ethics
+-  **Relevant Coursework:** Business Statistics, Business Research Methods, Project Management and Fundraising, Strategic Management and Leadership and Ethics
 
--   **Project:** Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Eldoret, Kenya.
+-  **Project:** Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Eldoret, Kenya.
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
@@ -143,9 +144,9 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 :::
 :::
 
--   Relevant Coursework: Advanced Database Systems • Research Methods • Information Retrieval and Analysis • Software Project Management • Web Application Development
+-  **Relevant Coursework:** Advanced Database Systems • Research Methods • Information Retrieval and Analysis • Software Project Management • Web Application Development
 
--   Thesis: Effects of Health Information Systems on user Performance: A Survey of Health Organisations in Uasin Gishu County, Kenya.
+-  **Thesis:** Effects of Health Information Systems on user Performance: A Survey of Health Organisations in Uasin Gishu County, Kenya.
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
@@ -157,17 +158,13 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 :::
 :::
 
--   **Relevant Coursework:** Database Management Systems, Database Design and Implementation, Managerial Statistics, Operations Research I, Business Systems Analysis and Design, Advanced Programming, Programming in COBOL, Practical Accounting Data Processing, Introduction to Programming I & II and Introduction to Computer Science
+-  **Relevant Coursework:** Database Management Systems, Database Design and Implementation, Managerial Statistics, Operations Research I, Business Systems Analysis and Design, Advanced Programming, Programming in COBOL, Practical Accounting Data Processing, Introduction to Programming I & II and Introduction to Computer Science
 
 ## <i class="fas fa-hands-helping"></i> Professional Service
 
-Here is the modified version with the links set to open in new tabs:
-
-- Peer Reviewer, [PLoS ONE](https://journals.plos.org/plosone/){target="_blank"}, [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/){target="_blank"}, [JMIR Medical Informatics](https://medinform.jmir.org/){target="_blank"}, [JMIR Bioinformatics and Biotechnology](https://bioinform.jmir.org/){target="_blank"}, [JMIR Perioperative Medicine](https://periop.jmir.org/){target="_blank"}, and [JMIR Formative Research](https://formative.jmir.org/){target="_blank"} 03/2021 - Present
+-   Peer Reviewer, [PLoS ONE](https://journals.plos.org/plosone/){target="_blank"}, [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/){target="_blank"}, [JMIR Medical Informatics](https://medinform.jmir.org/){target="_blank"}, [JMIR Bioinformatics and Biotechnology](https://bioinform.jmir.org/){target="_blank"}, [JMIR Perioperative Medicine](https://periop.jmir.org/){target="_blank"}, and [JMIR Formative Research](https://formative.jmir.org/){target="_blank"} 03/2021 - Present
 
 ## <i class="fas fa-users"></i> Professional Affiliations
-
-Here is the modified version without the headings:
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
