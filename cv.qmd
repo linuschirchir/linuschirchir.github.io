@@ -2,15 +2,31 @@
 execute: 
   freeze: true
 anchor-sections: false
+format: 
+  html:
+    page-title: "Curriculum Vitae"  # Sets the HTML page title
 ---
 
-## Personal Profile
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+<!-- Centering the title -->
+<h1 style="text-align: center;">Curriculum Vitae</h1>
+
+## <i class="fas fa-user"></i> Personal Profile
 
 Experienced Data Scientist with 13+ years of professional experience in health information systems, research, and analytics. Specialised in cleaning, linking, and analysing large datasets, particularly in the context of the National Health Service (NHS). Skilled in leveraging data science methodologies and machine learning techniques to drive improvements in healthcare quality, patient outcomes, and operational efficiency. Proven track record of contributing to academic publications and effective cross-functional collaboration.
 
-## Work Experience
+## <i class="fas fa-briefcase"></i> Work Experience
 
-### **Data Analyst, [Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"}, Edinburgh, United Kingdom 09/2024 - Current**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/rds_logo.jpg){width="80px" fig-alt="RDS Logo"}](https://www.researchdata.scot/about-rds/our-people/)
+:::
+
+::: h3
+[Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"}, Edinburgh, United Kingdom, Data Analyst, 09/2024 - Present
+:::
+:::
 
 -   Assess the suitability of administrative datasets for ingestion into Scotland’s National Safe Haven and linkage to other research datasets, identifying appropriate methods for collation, preparation, and updating, including data cleaning and quality assurance.
 
@@ -22,7 +38,15 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 
 -   Report progress to team members and external partner organisations to ensure effective delivery of the data sourcing pathway.
 
-### **Health Data Analyst, [University of Edinburgh](https://www.ed.ac.uk/profile/linus-chirchir){target="_blank"}, Edinburgh, United Kingdom 09/2023 - 06/2024**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/uoe_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.ed.ac.uk/profile/linus-chirchir)
+:::
+
+::: h3
+[University of Edinburgh](https://www.ed.ac.uk/profile/linus-chirchir){target="_blank"}, Edinburgh, United Kingdom, Health Data Analyst, 09/2023 - 06/2024
+:::
+:::
 
 -   Utilised SQL and R to clean and merge datasets, consolidating over 13,000 records from various Excel files into a unified dataset, which reduced data processing time by 50% and improved data accessibility for analysis by 30%.
 
@@ -34,7 +58,15 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 
 -   Engaged collaboratively in weekly meetings, serving as the liaison between the Data Controller and Research Database Manager, aligning project goals and data requirements, improving project completion timelines by 10%, and facilitating better team coordination.
 
-### **ICT Officer/Researcher, [Moi Teaching and Referral Hospital](https://www.mtrh.go.ke/){target="_blank"}, Eldoret, Kenya 07/2008 - 12/2021**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/mtrh_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.mtrh.go.ke/)
+:::
+
+::: h3
+[Moi Teaching and Referral Hospital](https://www.mtrh.go.ke/){target="_blank"}, Eldoret, Kenya, ICT Officer/Researcher, 07/2008 - 12/2021
+:::
+:::
 
 -   Identified, analysed, and interpreted trends and patterns in 104 health-related datasets, leading to actionable insights that improved healthcare service delivery, resulting in a 15% increase in patient satisfaction.
 
@@ -46,13 +78,21 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 
 -   Led the development and implementation of interactive data visualisations within the organisation, increasing user engagement by 35% and improving data comprehension among stakeholders.
 
-## Teaching Experience
+## <i class="fas fa-chalkboard-teacher"></i> Teaching Experience
 
-### **Part-time Lecturer, [University of Eldoret](https://www.uoeld.ac.ke/){target="_blank"}, Eldoret,Kenya Jan 2015 – Dec 2021**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/uoeld_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.uoeld.ac.ke/)
+:::
+
+::: h3
+[University of Eldoret](https://www.uoeld.ac.ke/){target="_blank"}, Eldoret, Kenya, Part-time Lecturer, 01/2015 - 12/2021
+:::
+:::
 
 Courses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems.
 
-## Skills
+## <i class="fas fa-cogs"></i> Skills
 
 **Key Skills:** Proficient in data cleaning, exploration, modeling, machine learning, visualization, and database management.
 
@@ -62,43 +102,97 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 
 **Statistical Techniques:** Experienced in quantitative and qualitative analytics, including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series, and hypothesis testing.
 
-## Education
+## <i class="fas fa-graduation-cap"></i> Education
 
-### [**Swansea University**](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/){target="_blank"}**, Swansea, United Kingdom, Master of Science in Health Data Science 01/2022 - 05/2023**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/swansea_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/)
+:::
+
+::: h3
+[Swansea University](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/){target="_blank"}, Swansea, United Kingdom, Master of Science in Health Data Science, 01/2022 - 05/2023
+:::
+:::
 
 -   **Modules Taken:** Machine Learning in Healthcare, Health Data Modelling, Health Data Visualisation, Bioinformatics for Genome Analysis, Introductory Analysis of Linked Health Data and Scientific Computing and Health Care
 
 -   **Dissertation:** Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning.
 
-### [**United States International University - Africa**](https://www.usiu.ac.ke/742/mba-health-leadership-management/){target="_blank"}**, Nairobi, Kenya, Master of Business Administration (MBA) 09/2018 - 08/2019**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/usiu_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.usiu.ac.ke/742/mba-health-leadership-management/)
+:::
+
+::: h3
+[United States International University - Africa](https://www.usiu.ac.ke/742/mba-health-leadership-management/){target="_blank"}, Nairobi, Kenya, Master of Business Administration, 09/2018 - 08/2019
+:::
+:::
 
 -   **Relevant Coursework:** Business Statistics, Business Research Methods, Project Management and Fundraising, Strategic Management and Leadership and Ethics
 
 -   **Project:** Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Eldoret, Kenya.
 
-### [**Kisii University**](https://kisiiuniversity.ac.ke/%D7%97%D7%96%D7%99%D7%AA%D7%99l/d/school-of-information-technology/academics){target="_blank"}**, Kisii, Kenya, Master of Information Systems (MIS) 01/2014 - 12/2015**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/kisii_logo.jpg){width="80px" fig-alt="RDS Logo"}](https://kisiiuniversity.ac.ke/%D7%97%D7%96%D7%99%D7%AA%D7%99l/d/school-of-information-technology/academics)
+:::
+
+::: h3
+[Kisii University](https://kisiiuniversity.ac.ke/%D7%97%D7%96%D7%99%D7%AA%D7%99l/d/school-of-information-technology/academics){target="_blank"}, Kisii, Kenya, Master of Information Systems, 01/2014 - 12/2015
+:::
+:::
 
 -   Relevant Coursework: Advanced Database Systems • Research Methods • Information Retrieval and Analysis • Software Project Management • Web Application Development
 
 -   Thesis: Effects of Health Information Systems on user Performance: A Survey of Health Organisations in Uasin Gishu County, Kenya.
 
-### [**Moi University**](https://business.mu.ac.ke/index.php/undergraduate-programmes/42-programmes/undergraduate/119-bachelor-of-business-management-bbm){target="_blank"}**, Eldoret, Kenya, Bachelor of Business Management 09/2008 - 12/2012**
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/mu_logo.jpg){width="80px" fig-alt="RDS Logo"}](https://business.mu.ac.ke/index.php/undergraduate-programmes/42-programmes/undergraduate/119-bachelor-of-business-management-bbm)
+:::
+
+::: h3
+[Moi University](https://business.mu.ac.ke/index.php/undergraduate-programmes/42-programmes/undergraduate/119-bachelor-of-business-management-bbm){target="_blank"}, Eldoret, Kenya, Bachelor of Business Management (Business Information Systems Management), 09/2008 - 12/2012
+:::
+:::
 
 -   **Relevant Coursework:** Database Management Systems, Database Design and Implementation, Managerial Statistics, Operations Research I, Business Systems Analysis and Design, Advanced Programming, Programming in COBOL, Practical Accounting Data Processing, Introduction to Programming I & II and Introduction to Computer Science
 
-## Professional Service
+## <i class="fas fa-hands-helping"></i> Professional Service
 
--   Peer Reviewer, PLoS ONE, Journal of Medical Internet Research (JMIR), JMIR Medical Informatics, JMIR Bioinformatics and Biotechnology, JMIR Perioperative Medicine and JMIR Formative Research 03/2021 ¬- Current
+Here is the modified version with the links set to open in new tabs:
 
-## Professional Affiliations
+- Peer Reviewer, [PLoS ONE](https://journals.plos.org/plosone/){target="_blank"}, [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/){target="_blank"}, [JMIR Medical Informatics](https://medinform.jmir.org/){target="_blank"}, [JMIR Bioinformatics and Biotechnology](https://bioinform.jmir.org/){target="_blank"}, [JMIR Perioperative Medicine](https://periop.jmir.org/){target="_blank"}, and [JMIR Formative Research](https://formative.jmir.org/){target="_blank"} 03/2021 - Present
 
--   Fellow of the Royal Statistical Society (FRSS) 08/2024 - Current
+## <i class="fas fa-users"></i> Professional Affiliations
 
--   Member, Institute for Operations Research and the Management Sciences (INFORMS) 08/2023 - Current
+Here is the modified version without the headings:
 
--   Member, Association of Professional Healthcare Analysts (AphA) 02/2022 - Current
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/rss_logo.svg){width="80px" fig-alt="RDS Logo"}](https://rss.org.uk/)
+:::
 
-## Certifications
+[Royal Statistical Society (RSS)](https://rss.org.uk/){target="_blank"}, Fellow of the Royal Statistical Society (FRSS), 08/2024 - Present
+:::
+
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/informs_logo.jpg){width="80px" fig-alt="RDS Logo"}](https://www.informs.org/)
+:::
+
+[Institute for Operations Research and the Management Sciences (INFORMS)](https://www.informs.org/){target="_blank"}, Member, 08/2023 - Present
+:::
+
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/apha_logo.svg){width="80px" fig-alt="RDS Logo"}](https://www.aphanalysts.org/)
+:::
+
+[Association of Professional Healthcare Analysts (AphA)](https://www.aphanalysts.org/){target="_blank"}, Member, 02/2022 - Present
+:::
+
+## <i class="fas fa-certificate"></i> Certifications
 
 -   ISO/IEC 27001:2013 Information Security Management Systems Lead Audit Course, 25th - 30th October 2021
 
@@ -112,9 +206,9 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 
 -   ISO/IEC 27001:2013 Information Security Management Systems Lead Implementer Course, 13th - 14th and 16th June 2018
 
-# Publications
+## <i class="fas fa-file-alt"></i> Publications
 
-## Peer Reviewed Conferences
+### <i class="fas fa-microphone"></i> Peer Reviewed Conferences
 
 -   Chirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. <a href="https://aisel.aisnet.org/pacis2021/230/" target="_blank">https://aisel.aisnet.org/pacis2021/230/</a>.
 
@@ -122,7 +216,7 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 
 -   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank">https://doi.org/10.3233/SHTI200506</a>.
 
-## Peer Reviewed Journal Articles
+### <i class="fas fa-file-alt"></i> Peer Reviewed Journal Articles
 
 -   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank">https://doi.org/10.1080/20421338.2020.1777676</a>.
 
@@ -140,6 +234,6 @@ Courses Taught: Introduction to Computer Science, Introduction to Computers and 
 
 -   Ireri, E. N., Omondi, Y. A., Chirchir, L. K., & Wafula, M. K. (2015). [Adoption of Enterprise Resource Planning System in Kenya: A Case Study of Kenya Ordnance Factories Corporation](https://www.journalcra.com/article/adoption-enterprise-resource-planning-system-kenya-case-study-kenya-ordnance-factories){target="_blank"}. International Journal of Current Research, 7 (4), 14702 – 14711.
 
-## Unpublished Manuscript
+## <i class="fas fa-file"></i> Unpublished Manuscript
 
 -   Chirchir, L. K. (2024). Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning. Manuscript in Preparation.
