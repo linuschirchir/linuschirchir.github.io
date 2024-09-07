@@ -1,3 +1,7 @@
+---
+title: "Blog"
+---
+
 Welcome to my blog, where I explore the dynamic world of **Data Science**, **Artificial Intelligence**, and **Machine Learning**. Here, you'll find insights, tutorials, and real-world applications aimed at demystifying complex concepts and showcasing the power of data-driven decision-making. Whether you're a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and let's learn together!
 
 ## Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty

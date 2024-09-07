@@ -1,6 +1,5 @@
 ---
-pagetitle: "Linus Circhir: Data Scientist"
-title: "Linus Chirchir" 
+title: "Home" 
 subtitle: |
   <h5 style="text-align: center;">Data Analyst at Research Data Scotland</h5>
 image: images/profile.jpg
