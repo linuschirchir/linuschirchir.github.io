@@ -1,6 +1,6 @@
 ---
-pagetitle: "Linus Chirchir | Data Scientist"
-title: "About" 
+pagetitle: "About"
+title: "Linus Chirchir" 
 subtitle: "Data Analyst at Research Data Scotland"
 image: images/profile.jpg
 image-alt: "Thats Me."
