@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+pagetitle: "Projects"
 ---
 
 Welcome to my projects page, where I explore the dynamic world of **Data Science**, **Artificial Intelligence**, and **Machine Learning**. Here, you'll find hands-on projects, innovative solutions, and real-world applications aimed at showcasing the power of data-driven decision-making. Whether you're a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and explore how data is transforming industries through these exciting projects!

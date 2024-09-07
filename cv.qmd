@@ -1,14 +1,14 @@
 ---
+pagetitle: "CV"
+---
+
+---
 execute: 
   freeze: true
 anchor-sections: false
 ---
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-
----
-pagetitle: "CV"
----
 
 <!-- Centering the title -->
 <h1 style="text-align: center;">Curriculum Vitae</h1>
