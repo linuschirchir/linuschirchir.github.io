@@ -1,1 +1,1 @@
-Sitemap: http://linuschirchir.com/sitemap.xml
+Sitemap: https://www.linuschirchir.com/sitemap.xml
