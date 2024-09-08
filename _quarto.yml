@@ -11,7 +11,7 @@ execute:
   
 website:
   title: "Linus Chirchir"
-  site-url: https://www.linuschirchir.com
+  site-url: https://linuschirchir.com
   repo-url: https://linuschirchir.github.io/
   navbar:
     pinned: true
