@@ -1,1 +1,1 @@
-Sitemap: https://linuschirchir.github.io/sitemap.xml
+Sitemap: http://linuschirchir.com/sitemap.xml
