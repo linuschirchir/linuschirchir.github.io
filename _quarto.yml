@@ -10,6 +10,7 @@ execute:
   freeze: auto
   
 website:
+  title: "Linus Chirchir"
   site-url: https://linuschirchir.com
   repo-url: https://linuschirchir.github.io/
   navbar:
@@ -63,7 +64,6 @@ website:
 
 format:
   html:
-    pagetitle: "Linus Chirchir: Data Scientist"
     grid: 
       body-width: 2000px
       sidebar-width: 200px
