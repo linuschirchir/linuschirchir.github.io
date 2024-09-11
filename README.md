@@ -1,4 +1,4 @@
-# Welcome to the Repo of Linus Chirchir's Personal Portfolio Website
+# Linus Chirchir's Personal Portfolio Website Repository
 
 This repository contains the source code and configuration for my personal portfolio website, [linuschirchir.com](https://linuschirchir.com), created with Quarto, hosted on GitHub Pages, and deployed via GoDaddy.
 
@@ -28,22 +28,26 @@ Before getting started, ensure you have the following installed:
 
 ## Installation
 
-To run this project locally, follow these steps:
+To install and run the project locally, follow these steps:
 
-1. Clone the repository:
+1. Fork the repository:
+   - Go to the repository page on GitHub: https://github.com/linuschirchir/linuschirchir.github.io.git
+   - Click "Fork" in the top-right corner to copy the repository to your GitHub account.
+
+2. Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/linuschirchir/linuschirchir.github.io.git
+   git clone https://github.com/<your-GitHub-username>/linuschirchir.github.io.git
    cd linuschirchir.github.io
    ```
 
-2. Install Quarto on your system. Follow the instructions on the [Quarto website](https://quarto.org/docs/get-started/).
+3. Install Quarto on your system. Follow the instructions on the [Quarto website](https://quarto.org/docs/get-started/).
 
-3. Render the site locally:
+4. Render the site locally:
    ```bash
    quarto render
    ```
 
-4. Open the generated `_site/index.html` file in your browser to view the site.
+5. Open the generated `_site/index.html` file in your browser to view the site.
 
 ## Site Structure
 
@@ -116,6 +120,3 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Happy browsing!  
 **Linus Chirchir**  
 [Visit My Website](https://linuschirchir.com)
-```
-
-This README.md provides an overview of the project, including the file structure, instructions for running the project locally, and details on using a custom domain with GitHub Pages and deploying via GoDaddy. Feel free to reach out if you need further customisation!
