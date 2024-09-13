@@ -16,7 +16,7 @@ This repository contains the source code and configuration for my personal portf
 
 ## Introduction
 
-This repository is the foundation of my personal portfolio website, where I share insights and projects related to data science, artificial intelligence, machine learning, and health information systems. It includes sections such as my blog, professional CV, and various projects that I have worked on. The website is built using the [Quarto](https://quarto.org) framework, hosted on GitHub Pages, and uses a custom domain, [linuschirchir.com](https://linuschirchir.com), deployed via GoDaddy.
+This repository is the foundation of my personal portfolio website, where I share insights and projects related to data science, artificial intelligence, machine learning, and health information systems. It includes sections such as my blog, professional CV, and various projects. The website is built using the [Quarto](https://quarto.org) framework, hosted on GitHub Pages, and uses a custom domain, [linuschirchir.com](https://linuschirchir.com), deployed via GoDaddy.
 
 ## Prerequisites
 
@@ -51,16 +51,16 @@ To install and run the project locally, follow these steps:
 
 ## Site Structure
 
-The main files and directories of this repository include:
+The main files and directories in this repository include:
 
-- **_quarto.yml**: The primary configuration file for the site. It includes site metadata, navigation setup, and layout configuration.
+- **_quarto.yml**: The primary configuration file for the site, including metadata, navigation setup, and layout configuration.
 - **CNAME**: The custom domain configuration for GitHub Pages, pointing to [linuschirchir.com](https://linuschirchir.com).
 - **about.qmd**: Quarto markdown file for the "About Me" page.
-- **blog.qmd**: Section for blog posts, which are rendered using Quarto.
+- **blog.qmd**: Section for blog posts, rendered using Quarto.
 - **cv.qmd**: Contains my professional CV.
-- **projects.qmd**: Details on various data science and AI projects.
+- **projects.qmd**: Details various data science and AI projects.
 - **images/**: Directory containing images used across the site.
-- **styles.css**: Custom styles for personalising the website's appearance.
+- **styles.css**: Custom styles for personalising the website’s appearance.
 - **dark.scss & light.scss**: SCSS files to manage both light and dark themes.
 
 ## Customisation
@@ -73,43 +73,46 @@ You can customise various aspects of the site:
 
 ## Setting Up Your Custom Domain with GoDaddy
 
-If you're using GoDaddy for your custom domain and hosting your Quarto site on GitHub Pages, follow these steps:
+To set up your custom domain for [linuschirchir.com](https://linuschirchir.com), I used GoDaddy as the domain registrar and GitHub Pages for hosting. You can use the same process for your own custom domain setup:
 
 ### Step 1: Set Up Your Quarto Site on GitHub Pages
-Make sure your Quarto site is set up and deployed on GitHub Pages:
+Before connecting your domain, ensure that your Quarto site is deployed on GitHub Pages:
 
 1. Push your Quarto site to a GitHub repository.
-2. Go to the repository settings.
-3. Under the "Pages" section, set your source to the correct branch (often `main` or `gh-pages`) and the root directory or `/docs`.
+2. Go to the repository's settings.
+3. Under the "Pages" section, set your source branch (either `main` or `gh-pages`) and choose the root directory or `/docs` as appropriate.
 
 ### Step 2: Purchase or Access Your Domain in GoDaddy
-Ensure you have a domain name registered with GoDaddy. If you haven't done this yet, you can purchase a domain via GoDaddy.
+To use a custom domain, you'll need one registered with GoDaddy. If you haven't done this yet, you can purchase a domain through GoDaddy.
 
-### Step 3: Update GitHub Repository for Custom Domain
-1. In your GitHub Pages repository, create a `CNAME` file in the root of the repository (if it doesn't exist) and add your domain (e.g., `www.linuschirchir.com`) inside it.
-2. Commit and push the `CNAME` file to your repository.
+### Step 3: Update Your GitHub Repository for the Custom Domain
+Link your domain to GitHub Pages:
 
-### Step 4: Configure DNS Settings on GoDaddy
+1. In your GitHub repository, create a `CNAME` file at the root level (if it doesn’t already exist).
+2. Inside the `CNAME` file, add your domain name (e.g., `www.linuschirchir.com`).
+3. Commit and push the file to your repository.
+
+### Step 4: Configure DNS Settings in GoDaddy
 To point your domain to GitHub Pages:
 
 1. Log in to your GoDaddy account.
-2. Navigate to "My Products" and find the domain you want to use.
-3. Click "DNS" next to your domain name to access DNS Management.
-4. Set the DNS records:
-   - **A Record**: Point to GitHub Pages IP addresses:
+2. In "My Products," find the domain you want to use.
+3. Click "DNS" next to your domain to access DNS Management.
+4. Set the following DNS records:
+   - **A Record**: Point to these GitHub Pages IP addresses:
      - `185.199.108.153`
      - `185.199.109.153`
      - `185.199.110.153`
      - `185.199.111.153`
-   - **CNAME Record**: Point `www` to `<username>.github.io`.
+   - **CNAME Record**: Point `www` to `<username>.github.io` (replace `<username>` with your GitHub username).
 
 ### Step 5: Wait for DNS Propagation
-The DNS changes may take a few minutes to a few hours to propagate.
+The DNS changes may take a few minutes to several hours to propagate fully.
 
-### Step 6: Verify Custom Domain in GitHub
-Go to your repository settings and confirm that your custom domain is set under the GitHub Pages section. GitHub will handle the SSL certificate automatically.
+### Step 6: Verify Your Custom Domain on GitHub
+Once the DNS is propagated, go back to your GitHub repository settings. In the "Pages" section, confirm that your custom domain is correctly set. GitHub will also handle the SSL certificate for HTTPS automatically.
 
-Now, your Quarto website hosted on GitHub Pages should be accessible via your custom GoDaddy domain!
+At this point, your Quarto website should be live and accessible at [linuschirchir.com](https://linuschirchir.com).
 
 ## License
 
