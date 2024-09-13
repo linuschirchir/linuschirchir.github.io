@@ -73,7 +73,7 @@ You can customise various aspects of the site:
 
 ## Setting Up Custom Domain with GoDaddy
 
-To set up custom domain for [linuschirchir.com](https://linuschirchir.com), I used GoDaddy as the domain registrar and GitHub Pages for hosting.
+If you're using GoDaddy for your custom domain and hosting your Quarto site on GitHub Pages, follow these steps:
 
 ### Step 1: Set Up Your Quarto Site on GitHub Pages
 Before connecting your domain, ensure that your Quarto site is deployed on GitHub Pages:
