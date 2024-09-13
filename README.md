@@ -71,9 +71,9 @@ You can customise various aspects of the site:
 - **Content**: Update the Quarto markdown files (`.qmd`) to add or modify content such as blog posts, projects, or the CV.
 - **Domain Setup**: The `CNAME` file points the website to the custom domain. If you are forking or adapting the repository, update the CNAME file to your own domain.
 
-## Setting Up Your Custom Domain with GoDaddy
+## Setting Up Custom Domain with GoDaddy
 
-To set up your custom domain for [linuschirchir.com](https://linuschirchir.com), I used GoDaddy as the domain registrar and GitHub Pages for hosting. You can use the same process for your own custom domain setup:
+To set up custom domain for [linuschirchir.com](https://linuschirchir.com), I used GoDaddy as the domain registrar and GitHub Pages for hosting.
 
 ### Step 1: Set Up Your Quarto Site on GitHub Pages
 Before connecting your domain, ensure that your Quarto site is deployed on GitHub Pages:
