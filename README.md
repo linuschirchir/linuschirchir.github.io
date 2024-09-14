@@ -89,7 +89,7 @@ To use a custom domain, you'll need one registered with GoDaddy. If you haven't 
 Link your domain to GitHub Pages:
 
 1. In your GitHub repository, create a `CNAME` file at the root level (if it doesn’t already exist).
-2. Inside the `CNAME` file, add your domain name (e.g., `www.linuschirchir.com`).
+2. Inside the `CNAME` file, add your domain name (e.g., `linuschirchir.com`).
 3. Commit and push the file to your repository.
 
 ### Step 4: Configure DNS Settings in GoDaddy
