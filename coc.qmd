@@ -1,0 +1,60 @@
+---
+title: Code of Conduct
+---
+
+---
+
+At **linuschirchir.com**, I am committed to maintaining a welcoming, inclusive, and respectful environment for all visitors, users, and contributors. This Code of Conduct outlines the standards of behavior I expect on this site and in any interactions related to it.
+
+#### 1. **Respectful Communication**
+I encourage open and respectful communication. When engaging with this site, I ask that everyone:
+
+- Treat others with kindness and respect.
+- Avoid using language or behavior that could be offensive, harmful, or discriminatory.
+- Respect differing viewpoints and experiences.
+
+#### 2. **Fostering Inclusivity**
+I believe in creating an inclusive environment where everyone feels welcome, regardless of their:
+
+- Age
+- Disability
+- Gender identity or expression
+- Ethnicity or nationality
+- Level of experience
+- Education background
+- Socioeconomic status
+- Sexual orientation
+- Religion or beliefs
+
+#### 3. **What’s Not Allowed**
+To keep this space positive, I will not tolerate:
+
+- Harassment, including offensive comments, threats, or inappropriate advances.
+- Discrimination or prejudiced behavior based on race, gender, sexuality, religion, or other protected characteristics.
+- Disruptive actions such as trolling, insults, or personal attacks.
+- Posting of spam, malicious content, or anything that can cause harm.
+
+#### 4. **Contributions and Interactions**
+If you contribute to the site—whether through comments, suggestions, or content—please follow these guidelines:
+
+- Provide feedback that is constructive and helpful.
+- Share knowledge and insights that can benefit the community.
+- Give credit where it’s due when referencing others' work or ideas.
+
+#### 5. **Reporting Issues**
+If you encounter or experience behavior that violates this Code of Conduct, please contact me at **linus [at] linuschirchir [dot] com** *(Replace [at] with @ and [dot] with .)*. I take such reports seriously and will take appropriate action, including removing content, issuing warnings, or banning users from the site.
+
+#### 6. **Consequences**
+Unacceptable behavior may result in:
+
+- A warning about the inappropriate behavior.
+- Temporary or permanent removal from the site and its platforms.
+- Reporting to appropriate authorities, if necessary.
+
+#### 7. **Acknowledgements**
+This Code of Conduct draws inspiration from widely used codes of conduct in the open-source community. I am committed to fostering a positive, collaborative, and inclusive space online.
+
+#### 8. **Updates to this Code**
+I may update this Code of Conduct from time to time to reflect changes in the way I run the site or to address any new issues that arise. Any updates will be posted here.
+
+---

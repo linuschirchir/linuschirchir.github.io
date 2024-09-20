@@ -1,0 +1,55 @@
+---
+title: "Accessibility Commitment"
+---
+
+---
+
+At **linuschirchir.com**, I am committed to ensuring digital accessibility for people with disabilities. I am continually working to improve the user experience for everyone and applying relevant accessibility standards.
+
+#### Measures to Support Accessibility
+
+I take the following measures to ensure accessibility:
+
+- **Standards Compliance**: I adhere to the Web Content Accessibility Guidelines (WCAG) 2.1, with a focus on achieving Level AA conformance.
+- **Design Considerations**: The website is designed with accessibility in mind, featuring easy navigation, clear headings, and text alternatives for images.
+- **Continuous Improvement**: I regularly test the site's content and make updates to ensure ongoing improvements in accessibility.
+
+#### Accessibility Features
+
+Some of the key accessibility features on this site include:
+
+- **Keyboard Navigation**: All functionality is available using the keyboard alone.
+- **Alt Text for Images**: Descriptive text is provided for all meaningful images to assist screen readers.
+- **Readable Fonts**: I use clear and legible fonts with sufficient contrast between the text and background to ensure readability.
+- **Responsive Design**: The site is designed to be fully responsive, working well across all screen sizes, from mobile to desktop.
+- **Forms**: All forms on the website are designed for ease of use, with clear labels and descriptions.
+
+#### Ongoing Work
+
+I recognize that accessibility is an ongoing effort. I continue to:
+
+- Review and audit content to identify areas for improvement.
+- Listen to feedback from users to enhance accessibility.
+- Update Quarto templates and plugins with the latest accessibility best practices.
+
+#### Feedback and Contact Information
+
+I welcome your feedback on the accessibility of **linuschirchir.com**. If you encounter any accessibility barriers, please let me know by contacting me at:
+
+- **Email: linus [at] linuschirchir [dot] com**
+*(Replace [at] with @ and [dot] with .)*
+
+I aim to respond to accessibility feedback within 5 business days and will work with you to ensure your needs are met.
+
+#### Compatibility with Assistive Technology
+
+This website is designed to be compatible with:
+
+- Modern web browsers like Chrome, Firefox, Edge, and Safari.
+- Popular screen readers, including JAWS, NVDA, and VoiceOver.
+
+#### Limitations and Alternatives
+
+Despite my best efforts, there may be some limitations to the accessibility of certain content. If you experience any difficulties accessing parts of the website, please let me know, and I will provide an accessible alternative.
+
+---

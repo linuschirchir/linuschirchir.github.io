@@ -21,6 +21,69 @@
     "text": "Analysing PostgreSQL Data in R\n\n\nPostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.\nTo get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.\nR on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of… Read the full article on Medium"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Linus Chirchir",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Facebook\n  \n  \n    \n     Twitter\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈\nI am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.\nProficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍\nMy mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s Connect\nI’m always open to discussing new ideas, collaborating on exciting projects, or simply networking with like-minded professionals. If you have any questions, inquiries, or opportunities, I’d love to hear from you!\n\nEmail:\nReach me directly at linus [at] linuschirchir [dot] com.\n(Replace [at] with @ and [dot] with .)\nConnect with me on social media:\n\nLinkedIn — Let’s network and share professional insights.\nGitHub — Check out my latest projects and contributions.\nFacebook — Stay connected for updates and discussions.\nTwitter (X) — Follow me for thoughts on data, AI, and beyond.\n\n\nWhether it’s for collaboration, advice, or simply to say hello, I’m looking forward to connecting with you. Don’t hesitate to reach out—I’m always eager to engage with new ideas and opportunities!\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Linus Chirchir",
+    "section": "",
+    "text": "Welcome to my blog, where I explore the dynamic world of Data Science, Artificial Intelligence, and Machine Learning. Here, you’ll find insights, tutorials, and real-world applications aimed at demystifying complex concepts and showcasing the power of data-driven decision-making. Whether you’re a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and let’s learn together!"
+  },
+  {
+    "objectID": "blog.html#navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty",
+    "href": "blog.html#navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty",
+    "title": "Linus Chirchir",
+    "section": "Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty",
+    "text": "Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty\n\n\nLanding in Swansea, Wales, UK, in late December 2021 from Eldoret, Kenya marked the beginning of a transformative journey during one of the most challenging times in recent history. The world was grappling with the peak of the Coronavirus disease (COVID-19) pandemic, and the outbreak of a new variant, Omicron, was a stark reminder of the urgency and importance of Health Data Science (HDS). Driven by a passion for using data to solve complex health challenges, I embarked on my master’s studies in HDS.\nDuring my studies, I explored courses such as Machine Learning (ML), Data Modelling, Data Visualisation, Bioinformatics for Genome Analysis, Analysis of Linked Health Data, and Scientific Computing in Healthcare. My dissertation “Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning,”… Read the full article on Medium"
+  },
+  {
+    "objectID": "blog.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
+    "href": "blog.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
+    "title": "Linus Chirchir",
+    "section": "How to Draw a Christmas Tree Using Crayon in R",
+    "text": "How to Draw a Christmas Tree Using Crayon in R\n\n\n\n\n\n\nChristmas is approaching and this makes it a great time to write a festive tutorial to help you learn R.\nOverview\nThis script creates a colorful Christmas tree in your R console. It uses the crayon package to add colors to the tree and prints a festive message below it.\nPrerequisites\n· R environment (such as RStudio)\n· Basic knowledge of running R scripts\n· Instructions\nStep 1: Installation and Setup\nThe script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to…. Read the full article on Medium"
+  },
+  {
+    "objectID": "blog.html#analysing-postgresql-data-in-r",
+    "href": "blog.html#analysing-postgresql-data-in-r",
+    "title": "Linus Chirchir",
+    "section": "Analysing PostgreSQL Data in R",
+    "text": "Analysing PostgreSQL Data in R\n\n\nPostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.\nTo get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.\nR on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of… Read the full article on Medium"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Linus Chirchir",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Facebook\n  \n  \n    \n     Twitter\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈\nI am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.\nProficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍\nMy mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility Commitment",
+    "section": "",
+    "text": "At linuschirchir.com, I am committed to ensuring digital accessibility for people with disabilities. I am continually working to improve the user experience for everyone and applying relevant accessibility standards.\n\nMeasures to Support Accessibility\nI take the following measures to ensure accessibility:\n\nStandards Compliance: I adhere to the Web Content Accessibility Guidelines (WCAG) 2.1, with a focus on achieving Level AA conformance.\nDesign Considerations: The website is designed with accessibility in mind, featuring easy navigation, clear headings, and text alternatives for images.\nContinuous Improvement: I regularly test the site’s content and make updates to ensure ongoing improvements in accessibility.\n\n\n\nAccessibility Features\nSome of the key accessibility features on this site include:\n\nKeyboard Navigation: All functionality is available using the keyboard alone.\nAlt Text for Images: Descriptive text is provided for all meaningful images to assist screen readers.\nReadable Fonts: I use clear and legible fonts with sufficient contrast between the text and background to ensure readability.\nResponsive Design: The site is designed to be fully responsive, working well across all screen sizes, from mobile to desktop.\nForms: All forms on the website are designed for ease of use, with clear labels and descriptions.\n\n\n\nOngoing Work\nI recognize that accessibility is an ongoing effort. I continue to:\n\nReview and audit content to identify areas for improvement.\nListen to feedback from users to enhance accessibility.\nUpdate Quarto templates and plugins with the latest accessibility best practices.\n\n\n\nFeedback and Contact Information\nI welcome your feedback on the accessibility of linuschirchir.com. If you encounter any accessibility barriers, please let me know by contacting me at:\n\nEmail: linus [at] linuschirchir [dot] com (Replace [at] with @ and [dot] with .)\n\nI aim to respond to accessibility feedback within 5 business days and will work with you to ensure your needs are met.\n\n\nCompatibility with Assistive Technology\nThis website is designed to be compatible with:\n\nModern web browsers like Chrome, Firefox, Edge, and Safari.\nPopular screen readers, including JAWS, NVDA, and VoiceOver.\n\n\n\nLimitations and Alternatives\nDespite my best efforts, there may be some limitations to the accessibility of certain content. If you experience any difficulties accessing parts of the website, please let me know, and I will provide an accessible alternative.\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "At linuschirchir.com, I am committed to maintaining a welcoming, inclusive, and respectful environment for all visitors, users, and contributors. This Code of Conduct outlines the standards of behavior I expect on this site and in any interactions related to it.\n\n1. Respectful Communication\nI encourage open and respectful communication. When engaging with this site, I ask that everyone:\n\nTreat others with kindness and respect.\nAvoid using language or behavior that could be offensive, harmful, or discriminatory.\nRespect differing viewpoints and experiences.\n\n\n\n2. Fostering Inclusivity\nI believe in creating an inclusive environment where everyone feels welcome, regardless of their:\n\nAge\nDisability\nGender identity or expression\nEthnicity or nationality\nLevel of experience\nEducation background\nSocioeconomic status\nSexual orientation\nReligion or beliefs\n\n\n\n3. What’s Not Allowed\nTo keep this space positive, I will not tolerate:\n\nHarassment, including offensive comments, threats, or inappropriate advances.\nDiscrimination or prejudiced behavior based on race, gender, sexuality, religion, or other protected characteristics.\nDisruptive actions such as trolling, insults, or personal attacks.\nPosting of spam, malicious content, or anything that can cause harm.\n\n\n\n4. Contributions and Interactions\nIf you contribute to the site—whether through comments, suggestions, or content—please follow these guidelines:\n\nProvide feedback that is constructive and helpful.\nShare knowledge and insights that can benefit the community.\nGive credit where it’s due when referencing others’ work or ideas.\n\n\n\n5. Reporting Issues\nIf you encounter or experience behavior that violates this Code of Conduct, please contact me at linus [at] linuschirchir [dot] com (Replace [at] with @ and [dot] with .). I take such reports seriously and will take appropriate action, including removing content, issuing warnings, or banning users from the site.\n\n\n6. Consequences\nUnacceptable behavior may result in:\n\nA warning about the inappropriate behavior.\nTemporary or permanent removal from the site and its platforms.\nReporting to appropriate authorities, if necessary.\n\n\n\n7. Acknowledgements\nThis Code of Conduct draws inspiration from widely used codes of conduct in the open-source community. I am committed to fostering a positive, collaborative, and inclusive space online.\n\n\n8. Updates to this Code\nI may update this Code of Conduct from time to time to reflect changes in the way I run the site or to address any new issues that arise. Any updates will be posted here.\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "cv.html#personal-profile",
     "href": "cv.html#personal-profile",
     "title": "\nCurriculum Vitae\n",
@@ -91,45 +154,10 @@
     "text": "Unpublished Manuscript\n\nChirchir, L. K. (2024). Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning. Manuscript in Preparation."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Linus Chirchir",
+    "objectID": "licence.html",
+    "href": "licence.html",
+    "title": "Licence",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Facebook\n  \n  \n    \n     Twitter\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈\nI am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.\nProficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍\nMy mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Linus Chirchir",
-    "section": "",
-    "text": "Welcome to my blog, where I explore the dynamic world of Data Science, Artificial Intelligence, and Machine Learning. Here, you’ll find insights, tutorials, and real-world applications aimed at demystifying complex concepts and showcasing the power of data-driven decision-making. Whether you’re a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and let’s learn together!"
-  },
-  {
-    "objectID": "blog.html#navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty",
-    "href": "blog.html#navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty",
-    "title": "Linus Chirchir",
-    "section": "Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty",
-    "text": "Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty\n\n\nLanding in Swansea, Wales, UK, in late December 2021 from Eldoret, Kenya marked the beginning of a transformative journey during one of the most challenging times in recent history. The world was grappling with the peak of the Coronavirus disease (COVID-19) pandemic, and the outbreak of a new variant, Omicron, was a stark reminder of the urgency and importance of Health Data Science (HDS). Driven by a passion for using data to solve complex health challenges, I embarked on my master’s studies in HDS.\nDuring my studies, I explored courses such as Machine Learning (ML), Data Modelling, Data Visualisation, Bioinformatics for Genome Analysis, Analysis of Linked Health Data, and Scientific Computing in Healthcare. My dissertation “Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning,”… Read the full article on Medium"
-  },
-  {
-    "objectID": "blog.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
-    "href": "blog.html#how-to-draw-a-christmas-tree-using-crayon-in-r",
-    "title": "Linus Chirchir",
-    "section": "How to Draw a Christmas Tree Using Crayon in R",
-    "text": "How to Draw a Christmas Tree Using Crayon in R\n\n\n\n\n\n\nChristmas is approaching and this makes it a great time to write a festive tutorial to help you learn R.\nOverview\nThis script creates a colorful Christmas tree in your R console. It uses the crayon package to add colors to the tree and prints a festive message below it.\nPrerequisites\n· R environment (such as RStudio)\n· Basic knowledge of running R scripts\n· Instructions\nStep 1: Installation and Setup\nThe script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to…. Read the full article on Medium"
-  },
-  {
-    "objectID": "blog.html#analysing-postgresql-data-in-r",
-    "href": "blog.html#analysing-postgresql-data-in-r",
-    "title": "Linus Chirchir",
-    "section": "Analysing PostgreSQL Data in R",
-    "text": "Analysing PostgreSQL Data in R\n\n\nPostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.\nTo get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.\nR on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of… Read the full article on Medium"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Linus Chirchir",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Facebook\n  \n  \n    \n     Twitter\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈\nI am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.\nProficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍\nMy mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉"
+    "text": "Opinions expressed on this website are solely my own and do not reflect the views of my employer or any organizations I am associated with.\nAll content on linuschirchir.com is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA) license.\nIn short, you are free to:\n\nShare — Copy and redistribute the material in any medium or format.\nAdapt — Remix, transform, and build upon the material.\n\nAs long as you:\n\nProvide attribution — Give appropriate credit, provide a link to the license, and indicate if changes were made.\nNonCommercial — You may not use the material for commercial purposes.\nShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.\n\nFor more details about the license, visit CC BY-NC-SA 4.0.\n\n\n\n\n Back to top"
   }
 ]

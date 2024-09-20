@@ -1,67 +1,77 @@
 project:
   type: website
-  preview:
-    port: 3434
-    browser: true
-    watch-inputs: true
-    timeout: 3600
 
-execute:
-  freeze: auto
-  
 website:
   title: "Linus Chirchir"
+  description: "Data Scientist"
   site-url: https://linuschirchir.com
+  page-navigation: true
+  back-to-top-navigation: true
+  favicon: /images/logo.png
   repo-url: https://linuschirchir.github.io/
+  repo-actions: [edit, issue]
+  cookie-consent:
+    type: express
+    prefs-text: "Change cookies 🍪"
+  google-analytics: "G-T7ENNBQG9H"
   navbar:
-    pinned: true
+    toggle-position: right
+    logo-href: https://linuschirchir.com/
     logo: images/logo.png
     logo-alt: "Linus Chirchir Logo"
+    title: false
+    collapse-below: lg
     left:
-      - text: Home
-        icon: house-fill
-        href: index.qmd
-      - text: Projects
-        icon: clipboard-check-fill
-        href: projects.qmd
-      - text: CV
-        icon: person-lines-fill
-        href: cv.qmd
-      - text: Blog
-        icon: journal-text
-        href: blog.qmd
+    - text: Home
+      icon: house-fill
+      href: index.qmd
+    - text: Projects
+      icon: clipboard-check-fill
+      href: projects.qmd
+    - text: CV
+      icon: person-lines-fill
+      href: cv.qmd
+    - text: Blog
+      icon: journal-text
+      href: blog.qmd
     right:
-      - icon: linkedin
-        aria-label: LinkedIn
-        href: https://www.linkedin.com/in/LinusChirchir/
-        target: _blank
-      - icon: github
-        aria-label: GitHub
-        href: https://github.com/LinusChirchir
-        target: _blank
-      - icon: facebook
-        aria-label: Facebook
-        href: https://facebook.com/ChirchirLinus1
-        target: _blank
-      - icon: twitter
-        aria-label: X
-        href: https://x.com/LinusChirchir
-        target: _blank
-      - icon: envelope
-        aria-label: Contact
-        href: mailto:linus@linuschirchir.com
-        target: _blank
-
+    - icon: linkedin
+      aria-label: LinkedIn
+      href: https://www.linkedin.com/in/LinusChirchir/
+      target: _blank
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/LinusChirchir
+      target: _blank
+    - icon: facebook
+      aria-label: Facebook
+      href: https://facebook.com/ChirchirLinus1
+      target: _blank
+    - icon: twitter
+      aria-label: X
+      href: https://x.com/LinusChirchir
+      target: _blank
+    - icon: envelope
+      aria-label: Contact
+      href: mailto:linus@linuschirchir.com
+      target: _blank
   page-footer:
-    border: true
-    left: |
-      <div style="text-align: left;">&#169; 2024 Linus Chirchir</div>
-    center: |
-      <div style="text-align: center;"><strong>[GitHub Repo](https://github.com/linuschirchir/linuschirchir.github.io){target="_blank"}</strong></div>
-    right: |
-      <div style="text-align: right;"><strong>[Report an Issue](https://github.com/linuschirchir/linuschirchir.github.io/issues/new){target="_blank"}</strong></div>
+    left: >-
+      &#169; 2024 Linus Chirchir
+    right:
+      - text: "Accessibility"
+        href: accessibility.qmd
+        aria-label: Accessibility Commitment
+      - text: "Code of Conduct"
+        href: coc.qmd
+        aria-label: Code of Conduct
+      - text: "Contact"
+        href: contact.qmd
+        aria-label: Contact
+      - text: "Licence"
+        href: licence.qmd
+        aria-label: Licence Details
     background: "#4169E1"
-
 format:
   html:
     grid: 
@@ -77,3 +87,7 @@ format:
     code-fold: show
     code-tools: false
     code-block-border-left: "#4169E1"
+
+execute:
+  freeze: true
+  warning: false
