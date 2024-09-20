@@ -12,8 +12,8 @@ website:
   repo-actions: [edit, issue]
   cookie-consent:
     type: express
-    prefs-text: "Change Cookies 🍪"
-  google-analytics: "G-T7ENNBQG9H"
+    prefs-text: "Change cookies 🍪"
+  google-analytics: "G-G006R9PLWE"
   navbar:
     toggle-position: right
     logo-href: https://linuschirchir.com/
@@ -57,7 +57,7 @@ website:
       target: _blank
   page-footer:
     left: >-
-      &#169; 2024 Linus Chirchir
+      Copyright &#169; 2024 Linus Chirchir
     right:
       - text: "Accessibility"
         href: accessibility.qmd
