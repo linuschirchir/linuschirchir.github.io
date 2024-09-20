@@ -8,11 +8,11 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   favicon: /images/logo.png
-  repo-url: https://linuschirchir.github.io/
+  repo-url: https://github.com/linuschirchir/linuschirchir.github.io
   repo-actions: [edit, issue]
   cookie-consent:
     type: express
-    prefs-text: "Change cookies 🍪"
+    prefs-text: "Change Cookies 🍪"
   google-analytics: "G-T7ENNBQG9H"
   navbar:
     toggle-position: right
