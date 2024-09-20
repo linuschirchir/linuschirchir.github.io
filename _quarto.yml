@@ -4,15 +4,23 @@ project:
 website:
   title: "Linus Chirchir"
   description: "Data Scientist"
-  site-url: https://linuschirchir.com
   page-navigation: true
   back-to-top-navigation: true
   favicon: /images/logo.png
+  twitter-card:
+    site: "@linuschirchir"
+  open-graph: true
+  site-url: https://linuschirchir.com
   repo-url: https://github.com/linuschirchir/linuschirchir.github.io
   repo-actions: [edit, issue]
   cookie-consent:
     type: express
     prefs-text: "Change cookies 🍪"
+  # If you are forking our repo to develop content -- whether for Linus Chirchir 
+  # or your own purposes -- please disable our Google Analytics tag during development.
+  # If building your own site, replace our GA tag with your own GA tag before deployment.
+  # This will prevent your activity being tracked and counted in our analytics dashboard.
+  # Thank you!
   google-analytics: "G-G006R9PLWE"
   navbar:
     toggle-position: right
@@ -47,8 +55,8 @@ website:
       aria-label: Facebook
       href: https://facebook.com/ChirchirLinus1
       target: _blank
-    - icon: twitter
-      aria-label: X
+    - icon: twitter-x
+      aria-label: Twitter/X
       href: https://x.com/LinusChirchir
       target: _blank
     - icon: envelope
@@ -56,6 +64,7 @@ website:
       href: mailto:linus@linuschirchir.com
       target: _blank
   page-footer:
+    background: "#4169E1"
     left: >-
       Copyright &#169; 2024 Linus Chirchir
     right:
@@ -71,7 +80,6 @@ website:
       - text: "Licence"
         href: licence.qmd
         aria-label: Licence Details
-    background: "#4169E1"
 format:
   html:
     grid: 

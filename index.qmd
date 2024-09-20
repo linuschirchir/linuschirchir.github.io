@@ -25,9 +25,9 @@ about:
       aria-label: Facebook
       href: https://facebook.com/ChirchirLinus1
       target: _blank
-    - icon: twitter
-      text: Twitter
-      aria-label: X
+    - icon: twitter-x
+      text: X
+      aria-label: Twitter/X
       href: https://x.com/LinusChirchir
       target: _blank
     - icon: envelope
