@@ -16,7 +16,7 @@ anchor-sections: true
 
 ## <i class="fas fa-user"></i> Personal Profile
 
-Experienced Data Scientist with 13+ years of professional experience in health information systems, research, and analytics. Specialised in cleaning, linking, and analysing large datasets, particularly in the context of the National Health Service (NHS). Skilled in leveraging data science methodologies and machine learning techniques to drive improvements in healthcare quality, patient outcomes, and operational efficiency. Proven track record of contributing to academic publications and effective cross-functional collaboration.
+Data Scientist with experience in health information systems, research, and analytics. Specialised in cleaning, linking, and analysing large administrative datasets across health, education, and other public services within Trusted Research Environments such as the Scottish National Safe Haven. Skilled in developing reproducible analytical pipelines (RAP) in R and applying data science and machine learning to support evidence-based policy, improve outcomes, and drive operational efficiency.
 
 ## <i class="fas fa-briefcase"></i> Work Experience
 
@@ -116,10 +116,6 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 :::
 :::
 
--  **Modules Taken:** Machine Learning in Healthcare, Health Data Modelling, Health Data Visualisation, Bioinformatics for Genome Analysis, Introductory Analysis of Linked Health Data and Scientific Computing and Health Care
-
--  **Dissertation:** Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning.
-
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
 [![](images/usiu_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.usiu.ac.ke/742/mba-health-leadership-management/)
@@ -129,10 +125,6 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 [United States International University - Africa](https://www.usiu.ac.ke/742/mba-health-leadership-management/){target="_blank"}, Nairobi, Kenya, Master of Business Administration, 09/2018 - 08/2019
 :::
 :::
-
--  **Relevant Coursework:** Business Statistics, Business Research Methods, Project Management and Fundraising, Strategic Management and Leadership and Ethics
-
--  **Project:** Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Eldoret, Kenya.
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
@@ -144,10 +136,6 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 :::
 :::
 
--  **Relevant Coursework:** Advanced Database Systems • Research Methods • Information Retrieval and Analysis • Software Project Management • Web Application Development
-
--  **Thesis:** Effects of Health Information Systems on user Performance: A Survey of Health Organisations in Uasin Gishu County, Kenya.
-
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
 [![](images/mu_logo.jpg){width="80px" fig-alt="RDS Logo"}](https://business.mu.ac.ke/index.php/undergraduate-programmes/42-programmes/undergraduate/119-bachelor-of-business-management-bbm)
@@ -158,8 +146,6 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 :::
 :::
 
--  **Relevant Coursework:** Database Management Systems, Database Design and Implementation, Managerial Statistics, Operations Research I, Business Systems Analysis and Design, Advanced Programming, Programming in COBOL, Practical Accounting Data Processing, Introduction to Programming I & II and Introduction to Computer Science
-
 ## <i class="fas fa-hands-helping"></i> Professional Service
 
 -   Peer Reviewer, [PLoS ONE](https://journals.plos.org/plosone/){target="_blank"}, [Journal of Medical Internet Research (JMIR)](https://www.jmir.org/){target="_blank"}, [JMIR Medical Informatics](https://medinform.jmir.org/){target="_blank"}, [JMIR Bioinformatics and Biotechnology](https://bioinform.jmir.org/){target="_blank"}, [JMIR Perioperative Medicine](https://periop.jmir.org/){target="_blank"}, and [JMIR Formative Research](https://formative.jmir.org/){target="_blank"} 03/2021 - Present
@@ -168,18 +154,18 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
-[![](images/rss_logo.svg){width="80px" fig-alt="RDS Logo"}](https://rss.org.uk/)
+[![](images/rss_data_analyst.jpg){width="80px" fig-alt="RDS Logo"}](https://rss.org.uk/)
 :::
 
-[Royal Statistical Society (RSS)](https://rss.org.uk/){target="_blank"}, Fellow of the Royal Statistical Society (FRSS), 08/2024 - Present
+[Royal Statistical Society (RSS) Data Analyst Status](https://rss.org.uk/membership/professional-register/){target="_blank"}, 12/2024 - Present
 :::
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2
-[![](images/informs_logo.jpg){width="80px" fig-alt="RDS Logo"}](https://www.informs.org/)
+[![](images/rss_logo.svg){width="80px" fig-alt="RDS Logo"}](https://rss.org.uk/)
 :::
 
-[Institute for Operations Research and the Management Sciences (INFORMS)](https://www.informs.org/){target="_blank"}, Member, 08/2023 - Present
+[Royal Statistical Society (RSS)](https://rss.org.uk/){target="_blank"}, Fellow of the Royal Statistical Society (FRSS), 08/2024 - Present
 :::
 
 ::: {.d-inline-flex style="align-items:baseline"}
@@ -208,30 +194,30 @@ Experienced Data Scientist with 13+ years of professional experience in health i
 
 ### <i class="fas fa-microphone"></i> Peer Reviewed Conferences
 
--   Chirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. <a href="https://aisel.aisnet.org/pacis2021/230/" target="_blank">https://aisel.aisnet.org/pacis2021/230/</a>.
+- 	**Chirchir, L.**, (2025). Automating Low-Fidelity Synthetic Data Generation from Metadata: A Reproducible Approach Using R. International Journal of Population Data Science, 10(4). <a href="https://doi.org/10.23889/ijpds.v10i4.3134" target="_blank">https://doi.org/10.23889/ijpds.v10i4.3134</a>.
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. <a href="https://doi.org/10.1016/j.procs.2021.01.187" target="_blank">https://doi.org/10.1016/j.procs.2021.01.187</a>.
+- 	Bishop, J., **Chirchir, L.**, Coey, R., Dunlop, A., Evans, H., Grzybowski, D., Harbinson, A., Magder, C., McCullough, N., McFerran, R., Muir, J., Ramage, A., Telford, S., Thomas, R. and Vilcan, T. (2025). ADRUK Ingest Improvement Task and Finish Group: Smoothing the ingest of data. International Journal of Population Data Science, 10(4). <a href="https://doi.org/10.23889/ijpds.v10i4.3130" target="_blank">https://doi.org/10.23889/ijpds.v10i4.3130</a>.
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank">https://doi.org/10.3233/SHTI200506</a>.
+-   **Chirchir, L. K.**, Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. <a href="https://aisel.aisnet.org/pacis2021/230/" target="_blank">https://aisel.aisnet.org/pacis2021/230/</a>.
+
+-   **Chirchir, L. K.**, Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. <a href="https://doi.org/10.1016/j.procs.2021.01.187" target="_blank">https://doi.org/10.1016/j.procs.2021.01.187</a>.
+
+-   **Chirchir, L. K.**, Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. <a href="https://doi.org/10.3233/SHTI200506" target="_blank">https://doi.org/10.3233/SHTI200506</a>.
 
 ### <i class="fas fa-book-open"></i> Peer Reviewed Journal Articles
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank">https://doi.org/10.1080/20421338.2020.1777676</a>.
+-   **Chirchir, L. K.**, Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. <a href="https://doi.org/10.1080/20421338.2020.1777676" target="_blank">https://doi.org/10.1080/20421338.2020.1777676</a>.
 
--   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. <a href="http://doi.org/10.11591/ijphs.v8i3.20238" target="_blank">http://doi.org/10.11591/ijphs.v8i3.20238</a>.
+-   Aruasa, W. K., **Chirchir, L. K.**, & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. <a href="http://doi.org/10.11591/ijphs.v8i3.20238" target="_blank">http://doi.org/10.11591/ijphs.v8i3.20238</a>.
 
--   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. <a href="http://doi.org/10.30845/ijbss.v10n7p14" target="_blank">http://doi.org/10.30845/ijbss.v10n7p14</a>.
+-   Chebon, S. K., Aruasa, W. K., & **Chirchir, L. K.** (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. <a href="http://doi.org/10.30845/ijbss.v10n7p14" target="_blank">http://doi.org/10.30845/ijbss.v10n7p14</a>.
 
--   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. <a href="http://doi.org/10.7176/JHMN/64-02" target="_blank">http://doi.org/10.7176/JHMN/64-02</a>.
+-   Aruasa, W. K., **Chirchir, L. K.**, & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. <a href="http://doi.org/10.7176/JHMN/64-02" target="_blank">http://doi.org/10.7176/JHMN/64-02</a>.
 
--   Aruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). [Strategies for Improving Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya](https://www.strategicjournals.com/index.php/journal/article/view/1275){target="_blank"}. The Strategic Journal of Business & Change Management, 6 (3), 216 – 226.
+-   Aruasa, W. K., **Chirchir, L. K.**, & Chebon, S. K. (2019). [Strategies for Improving Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya](https://www.strategicjournals.com/index.php/journal/article/view/1275){target="_blank"}. The Strategic Journal of Business & Change Management, 6 (3), 216 – 226.
 
--   Chebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). [Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya](https://iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue7/Series-4/B2407041122.pdf){target="_blank"}. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.
+-   Chebon, S. K., Aruasa, W. K., & **Chirchir, L. K.** (2019). [Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya](https://iosrjournals.org/iosr-jhss/papers/Vol.%2024%20Issue7/Series-4/B2407041122.pdf){target="_blank"}. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.
 
--   Chirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2019). [Perceived Usefulness and Ease of Use as Mediators of the Effect of Health Information Systems on User Performance](https://eajournals.org/ejcsit/vol-7-issue-1-february-2019/perceived-usefulness-and-ease-of-use-as-mediators-of-the-effect-of-health-information-systems-on-user-performance/){target="_blank"}. European Journal of Computer Science and Information Technology, 7 (1), 22 – 37.
+-   **Chirchir, L. K.**, Aruasa, W. K., & Chebon, S. K. (2019). [Perceived Usefulness and Ease of Use as Mediators of the Effect of Health Information Systems on User Performance](https://eajournals.org/ejcsit/vol-7-issue-1-february-2019/perceived-usefulness-and-ease-of-use-as-mediators-of-the-effect-of-health-information-systems-on-user-performance/){target="_blank"}. European Journal of Computer Science and Information Technology, 7 (1), 22 – 37.
 
--   Ireri, E. N., Omondi, Y. A., Chirchir, L. K., & Wafula, M. K. (2015). [Adoption of Enterprise Resource Planning System in Kenya: A Case Study of Kenya Ordnance Factories Corporation](https://www.journalcra.com/article/adoption-enterprise-resource-planning-system-kenya-case-study-kenya-ordnance-factories){target="_blank"}. International Journal of Current Research, 7 (4), 14702 – 14711.
-
-## <i class="fas fa-file"></i> Unpublished Manuscript
-
--   Chirchir, L. K. (2024). Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning. Manuscript in Preparation.
+-   Ireri, E. N., Omondi, Y. A., **Chirchir, L. K.**, & Wafula, M. K. (2015). [Adoption of Enterprise Resource Planning System in Kenya: A Case Study of Kenya Ordnance Factories Corporation](https://www.journalcra.com/article/adoption-enterprise-resource-planning-system-kenya-case-study-kenya-ordnance-factories){target="_blank"}. International Journal of Current Research, 7 (4), 14702 – 14711.
