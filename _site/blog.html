@@ -194,12 +194,31 @@ cookieconsent.run({
 
 
 <p>Welcome to my blog, where I explore the dynamic world of <strong>Data Science</strong>, <strong>Artificial Intelligence</strong>, and <strong>Machine Learning</strong>. Here, you’ll find insights, tutorials, and real-world applications aimed at demystifying complex concepts and showcasing the power of data-driven decision-making. Whether you’re a seasoned professional or just beginning your journey, this space is designed to spark curiosity, share knowledge, and stay at the forefront of AI and ML innovation. Dive in and let’s learn together!</p>
+<section id="heart-failure-clinical-records-synthetic-data-project" class="level2">
+<h2 class="anchored" data-anchor-id="heart-failure-clinical-records-synthetic-data-project">Heart Failure Clinical Records Synthetic Data Project</h2>
+<div class="columns">
+<div class="column" style="width:55%;">
+<p>This project evaluates the quality of synthetic datasets derived from the Heart Failure Clinical Records data (299 patients, 13 variables). Our goal is to determine how well different generation strategies reproduce the statistical properties and analytic value of the original data while protecting privacy. We generate synthetic data using four approaches: (1) parametric imputation (MICE), (2) non-parametric imputation (CART via MICE), (3) distribution-driven synthesis (synthpop), and (4) metadata-guided rules. We then compare each synthetic dataset with the real data across three dimensions:</p>
+<ul>
+<li>Fidelity – univariate and multivariate similarity (distributions, ranges, correlations), histogram similarity, and mutual information.</li>
+<li>Utility – model transportability using XGBoost (TRTR vs.&nbsp;TSTR), feature-importance agreement, and SHAP-based behaviour.</li>
+<li>Privacy / Disclosure risk – exact record matches, neighbour-proximity checks, and membership-inference sensitivity.</li>
+</ul>
+<p><a href="https://linuschirchir.quarto.pub/heart-failure-clinical-records-synthetic-data-project/" target="_blank">Read the full article here</a></p>
+</div><div class="column" style="width:5%;">
+
+</div><div class="column" style="width:40%;">
+<p><img src="images/categorical_variables.png" class="img-fluid"></p>
+</div>
+</div>
+</section>
 <section id="navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty" class="level2">
 <h2 class="anchored" data-anchor-id="navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty">Navigating Health Data Analysis: My Experience in Hip and Knee Arthroplasty</h2>
 <div class="columns">
 <div class="column" style="width:55%;">
 <p>Landing in Swansea, Wales, UK, in late December 2021 from Eldoret, Kenya marked the beginning of a transformative journey during one of the most challenging times in recent history. The world was grappling with the peak of the Coronavirus disease (COVID-19) pandemic, and the outbreak of a new variant, Omicron, was a stark reminder of the urgency and importance of Health Data Science (HDS). Driven by a passion for using data to solve complex health challenges, I embarked on my master’s studies in HDS.</p>
-<p>During my studies, I explored courses such as Machine Learning (ML), Data Modelling, Data Visualisation, Bioinformatics for Genome Analysis, Analysis of Linked Health Data, and Scientific Computing in Healthcare. My dissertation “Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning,”… <a href="https://medium.com/@linuschirchir/navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty-cd7017b89086" target="_blank">Read the full article on Medium</a></p>
+<p>During my studies, I explored courses such as Machine Learning (ML), Data Modelling, Data Visualisation, Bioinformatics for Genome Analysis, Analysis of Linked Health Data, and Scientific Computing in Healthcare. My dissertation “Evaluating Cognitive Assessments in the Progression to Early-Stage Alzheimer’s Disease Using Machine Learning,” provided practical experience in applying these skills to real-world problems. Additionally, I engaged in projects using R and QGIS to visualise global COVID-19 trends and applied ML techniques in R to predict heart disease.</p>
+<p><a href="https://medium.com/@linuschirchir/navigating-health-data-analysis-my-experience-in-hip-and-knee-arthroplasty-cd7017b89086" target="_blank">Read the full article on Medium</a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:40%;">
@@ -219,11 +238,14 @@ cookieconsent.run({
 <p>Overview</p>
 <p>This script creates a colorful Christmas tree in your R console. It uses the crayon package to add colors to the tree and prints a festive message below it.</p>
 <p>Prerequisites</p>
-<p>· R environment (such as RStudio)</p>
-<p>· Basic knowledge of running R scripts</p>
-<p>· Instructions</p>
+<ul>
+<li><p>R environment (such as RStudio)</p></li>
+<li><p>Basic knowledge of running R scripts</p></li>
+<li><p>Instructions</p></li>
+</ul>
 <p>Step 1: Installation and Setup</p>
-<p>The script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to…. <a href="https://medium.com/@linuschirchir/how-to-draw-a-christmas-tree-using-crayon-in-r-493f603f6462" target="_blank">Read the full article on Medium</a></p>
+<p>The script below first checks if the crayon package is installed. If not, it installs the package automatically. The crayon package is essential for adding colors to the tree and the text.</p>
+<p><a href="https://medium.com/@linuschirchir/how-to-draw-a-christmas-tree-using-crayon-in-r-493f603f6462" target="_blank">Read the full article on Medium</a></p>
 </div>
 </div>
 </section>
@@ -233,7 +255,8 @@ cookieconsent.run({
 <div class="column" style="width:55%;">
 <p>PostgreSQL (Postgres) is an open-source enterprise relational database management system (RDBMS) that supports both relational (SQL) and non-relational (JSON) querying. The Postgres project began at the University of California in 1986 and has been growing by leaps and bounds. This RDBMS is highly reputed for its high levels of resilience, integrity, and correctness. Many products and solutions have been developed based on PostgreSQL.</p>
 <p>To get started, you may need to download and install PostgreSQL for your operating systems such as Linux, macOS and Windows from the link below. Follow on-screen instructions and leave all the default settings in place. The official PostgreSQL website provides a step by step guide on how to install PostgreSQL here. Download and install PostgreSQL for your operating system from the link below.</p>
-<p>R on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of… <a href="https://medium.com/@linuschirchir/analysing-postgresql-data-in-r-7ea2b2565ba7" target="_blank">Read the full article on Medium</a></p>
+<p>R on the other hand is a free programming language used for predictive analytics, statistical modelling, data visualization and machine learning. The language was developed by Robert Gentleman and Ross Ihaka of the University of Auckland’s Statistics Department in 1993 and has been continuously evolving over time. R is leveraged as an exploratory and investigative tool, especially in academia and healthcare.</p>
+<p><a href="https://medium.com/@linuschirchir/analysing-postgresql-data-in-r-7ea2b2565ba7" target="_blank">Read the full article on Medium</a></p>
 </div><div class="column" style="width:5%;">
 
 </div><div class="column" style="width:40%;">
@@ -813,7 +836,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Copyright © 2024 Linus Chirchir</p>
+<p>Copyright © 2025 Linus Chirchir</p>
 </div>   
     <div class="nav-footer-center">
 
