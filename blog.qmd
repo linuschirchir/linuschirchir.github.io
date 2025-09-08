@@ -7,6 +7,13 @@ Welcome to my blog, where I explore the dynamic world of **Data Science**, **Art
 ## Heart Failure Clinical Records Synthetic Data Project
 
 ::: columns
+::: {.column width="40%"}
+![](images/categorical_variables.png){width=100%}
+:::
+
+::: {.column width="5%"} 
+:::
+
 ::: {.column width="55%"}
 This project evaluates the quality of synthetic datasets derived from the Heart Failure Clinical Records data (299 patients, 13 variables). Our goal is to determine how well different generation strategies reproduce the statistical properties and analytic value of the original data while protecting privacy. We generate synthetic data using four approaches: (1) parametric imputation (MICE), (2) non-parametric imputation (CART via MICE), (3) distribution-driven synthesis (synthpop), and (4) metadata-guided rules. We then compare each synthetic dataset with the real data across three dimensions:
 
@@ -15,13 +22,6 @@ This project evaluates the quality of synthetic datasets derived from the Heart 
 - Privacy / Disclosure risk – exact record matches, neighbour-proximity checks, and membership-inference sensitivity.
 
 [Read the full article here](https://linuschirchir.quarto.pub/heart-failure-clinical-records-synthetic-data-project/){target="_blank"}
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="40%"}
-![](images/categorical_variables.png)
 :::
 :::
 
