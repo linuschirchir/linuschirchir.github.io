@@ -42,11 +42,13 @@ execute:
 ---
 
 ::: {#hero-heading}
-I am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈
+I am a Data Analyst at Research Data Scotland with a strong interest in data-driven research, trusted research environments (TREs), data governance, and the responsible use of data for public benefit. 📊
 
-I am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.
+My work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.
 
-Proficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍
+I have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto. 🛠️
 
-My mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉
+My interests span data science, artificial intelligence, machine learning, synthetic data, metadata, and data stewardship. I am particularly passionate about strengthening the research data ecosystem by improving data quality, transparency, accessibility, and trust.
+
+Through my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact. 🌍
 :::
