@@ -47,10 +47,18 @@ website:
       aria-label: LinkedIn
       href: https://www.linkedin.com/in/LinusChirchir/
       target: _blank
+    - icon: mortarboard-fill
+      aria-label: Google Scholar
+      href: https://scholar.google.com/citations?user=0DCF9mwAAAAJ&hl=en
+      target: _blank
+    - icon: person-badge
+      aria-label: ORCID
+      href: https://orcid.org/0000-0003-2687-5967
+      target: _blank
     - icon: github
       aria-label: GitHub
       href: https://github.com/LinusChirchir
-      target: _blank
+      target: _blank      
     - icon: facebook
       aria-label: Facebook
       href: https://facebook.com/ChirchirLinus1

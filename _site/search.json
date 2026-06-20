@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Linus Chirchir",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Facebook\n  \n  \n    \n     X\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a passionate Data Scientist with expertise in health information systems, healthcare research, and analytics. My work focuses on turning complex datasets into actionable insights that drive better healthcare outcomes and enhance operational efficiency. 🩺📈\nI am skilled in data cleaning, exploration, modelling, machine learning, and visualisation, along with comprehensive database management. My technical toolkit includes SQL, R, Git, GitHub, Tableau, Power BI, QGIS, SPSS and advanced Excel. 🛠️ Additionally, I specialise in R packages such as parallel, microbenchmark, shiny, data.table, tidyverse, caret, survival, forecast and dynamic report generation with Quarto.\nProficient in both quantitative and qualitative analytics, I apply a wide range of statistical techniques including descriptive, predictive, and prescriptive methods, statistical analysis, forecasting, time series analysis, and hypothesis testing. 📊🔍\nMy mission is to harness the power of data science, artificial intelligence, and machine learning to improve healthcare quality and operational efficiency. I am passionate about using data to tell stories that inspire impactful change in the health sector. 💡📉\n\n\n\n\n\n\n\n Back to top"
+    "text": "LinkedIn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     GitHub\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a Data Analyst at Research Data Scotland with a strong interest in data-driven research, trusted research environments (TREs), data governance, and the responsible use of data for public benefit. 📊\nMy work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.\nI have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto. 🛠️\nMy interests span data science, artificial intelligence, machine learning, synthetic data, metadata, and data stewardship. I am particularly passionate about strengthening the research data ecosystem by improving data quality, transparency, accessibility, and trust.\nThrough my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact. 🌍\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "contact.html",
@@ -88,7 +88,7 @@
     "href": "cv.html#personal-profile",
     "title": "\nCurriculum Vitae\n",
     "section": " Personal Profile",
-    "text": "Personal Profile\nData Scientist with experience in health information systems, research, and analytics. Specialised in cleaning, linking, and analysing large administrative datasets across health, education, and other public services within Trusted Research Environments such as the Scottish National Safe Haven. Skilled in developing reproducible analytical pipelines (RAP) in R and applying data science and machine learning to support evidence-based policy, improve outcomes, and drive operational efficiency."
+    "text": "Personal Profile\nPopulation and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments, synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit."
   },
   {
     "objectID": "cv.html#work-experience",
@@ -102,7 +102,7 @@
     "href": "cv.html#teaching-experience",
     "title": "\nCurriculum Vitae\n",
     "section": " Teaching Experience",
-    "text": "Teaching Experience\n\n\n\n\n\nUniversity of Eldoret, Eldoret, Kenya, Part-time Lecturer, 01/2015 - 12/2021\n\n\n\nCourses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems."
+    "text": "Teaching Experience\n\n\n\n\n\nUniversity of Eldoret, Eldoret, Kenya, Part-time Lecturer, 01/2015 - 12/2021\n\n\n\nCourses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems.\n\nPrincipal Investigator – £64,508.43\nAwarded funding for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot through the UKRI Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call, part of Grant No. UKRI739, March 2026."
   },
   {
     "objectID": "cv.html#skills",
@@ -166,5 +166,19 @@
     "title": "Linus Chirchir",
     "section": "Heart Failure Clinical Records Synthetic Data Project",
     "text": "Heart Failure Clinical Records Synthetic Data Project\n\n\n\n\n\n\nThis project evaluates the quality of synthetic datasets derived from the Heart Failure Clinical Records data (299 patients, 13 variables). Our goal is to determine how well different generation strategies reproduce the statistical properties and analytic value of the original data while protecting privacy. We generate synthetic data using four approaches: (1) parametric imputation (MICE), (2) non-parametric imputation (CART via MICE), (3) distribution-driven synthesis (synthpop), and (4) metadata-guided rules. We then compare each synthetic dataset with the real data across three dimensions:\n\nFidelity – univariate and multivariate similarity (distributions, ranges, correlations), histogram similarity, and mutual information.\nUtility – model transportability using XGBoost (TRTR vs. TSTR), feature-importance agreement, and SHAP-based behaviour.\nPrivacy / Disclosure risk – exact record matches, neighbour-proximity checks, and membership-inference sensitivity.\n\nRead the full article here"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "\nCurriculum Vitae\n",
+    "section": " Research Interests",
+    "text": "Research Interests\nPopulation health, health inequalities, life-course analysis, social determinants of health, administrative data research, Trusted Research Environments (TREs), synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy."
+  },
+  {
+    "objectID": "cv.html#honours-and-recognition",
+    "href": "cv.html#honours-and-recognition",
+    "title": "\nCurriculum Vitae\n",
+    "section": " Honours and Recognition",
+    "text": "Honours and Recognition\nUK Research and Innovation (UKRI) Global Talent Endorsement\nMay 2026\nEndorsed by UK Research and Innovation under the Global Talent (Endorsed Funder) route in recognition of contributions to UKRI-funded research and innovation activities."
   }
 ]
