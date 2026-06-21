@@ -100,9 +100,9 @@ Population health, health inequalities, life-course analysis, social determinant
 
 ## <i class="fas fa-award"></i> Grant Funding
 
-**Principal Investigator – £64,508.43**
+**Principal Investigator – £64,508.43, March 2026**
   
-Awarded funding for *FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot* through the UKRI Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call, part of Grant No. UKRI739, March 2026.
+Awarded funding for *FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot* through the UKRI Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call, part of Grant No. UKRI739.
 
 ## <i class="fas fa-medal"></i> Honours and Recognition
 
@@ -205,7 +205,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 [![](images/rss_logo.svg){width="80px" fig-alt="RSS Logo"}](https://rss.org.uk/)
 :::
 
-[Royal Statistical Society](https://rss.org.uk/){target="_blank"}, Member, Royal Statistical Society, 08/2024 - Present
+[Royal Statistical Society](https://rss.org.uk/){target="_blank"}, Member, 08/2024 - Present
 :::
 
 ::: {.d-flex style="align-items:baseline"}
