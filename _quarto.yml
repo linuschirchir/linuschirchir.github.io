@@ -33,6 +33,9 @@ website:
     - text: Home
       icon: house-fill
       href: index.qmd
+    - text: News
+      icon: newspaper
+      href: news.qmd  
     - text: Projects
       icon: clipboard-check-fill
       href: projects.qmd
@@ -76,6 +79,9 @@ website:
     left: >-
       Copyright &#169; {{< now year >}} Linus Chirchir
     right:
+      - text: "Support My Work ☕"
+        href: https://buymeacoffee.com/linuschirchir
+        target: _blank
       - text: "Accessibility"
         href: accessibility.qmd
         aria-label: Accessibility Commitment

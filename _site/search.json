@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Linus Chirchir",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     GitHub\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a Data Analyst at Research Data Scotland with a strong interest in data-driven research, trusted research environments (TREs), data governance, and the responsible use of data for public benefit. 📊\nMy work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.\nI have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto. 🛠️\nMy interests span data science, artificial intelligence, machine learning, synthetic data, metadata, and data stewardship. I am particularly passionate about strengthening the research data ecosystem by improving data quality, transparency, accessibility, and trust.\nThrough my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact. 🌍\n\n\n\n\n\n\n\n Back to top"
+    "text": "LinkedIn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     GitHub\n  \n  \n    \n     Contact\n  \n\n  \n  \nI am a Data Analyst at Research Data Scotland with a strong interest in data-driven research, Trusted Research Environments (TREs), data governance, and the responsible use of data for public benefit. 📊 Read my five-minute profile interview with Research Data Scotland here.\nMy work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.\nI have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto. 🛠️\nMy interests span data science, artificial intelligence, machine learning, synthetic data, metadata, and data stewardship. I am particularly passionate about strengthening the research data ecosystem by improving data quality, transparency, accessibility, and trust.\nThrough my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact. 🌍\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "contact.html",
@@ -130,7 +130,7 @@
     "href": "cv.html#professional-affiliations",
     "title": "\nCurriculum Vitae\n",
     "section": " Professional Affiliations",
-    "text": "Professional Affiliations\n\n\n\n\nThe Federation for Informatics Professionals Advanced Practitioner FEDIP, 12/2025 - Present\n\n\n\n\n\nRoyal Statistical Society Data Science Professional Status, 04/2026 - Present\n\n\n\n\n\nRoyal Statistical Society Graduate Statistician Status, 12/2025 - Present\n\n\n\n\n\nRoyal Statistical Society Data Analyst Status, 12/2024 - 11/2025\n\n\n\n\n\nRoyal Statistical Society, Member, 08/2024 - Present\n\n\n\n\n\nAssociation of Professional Healthcare Analysts (AphA), Member, 02/2022 - Present"
+    "text": "Professional Affiliations\n\n\n\n\nRoyal Statistical Society Data Science Professional Status, 04/2026 - Present\n\n\n\n\n\nThe Federation for Informatics Professionals Advanced Practitioner FEDIP, 12/2025 - Present\n\n\n\n\n\nRoyal Statistical Society Graduate Statistician Status, 11/2025 - Present\n\n\n\n\n\nRoyal Statistical Society Data Analyst Status, 12/2024 - 11/2025\n\n\n\n\n\nRoyal Statistical Society, Member, 08/2024 - Present\n\n\n\n\n\nAssociation of Professional Healthcare Analysts (AphA), Member, 02/2022 - Present"
   },
   {
     "objectID": "cv.html#certifications",
@@ -172,20 +172,153 @@
     "href": "cv.html#research-interests",
     "title": "\nCurriculum Vitae\n",
     "section": " Research Interests",
-    "text": "Research Interests\nPopulation health, health inequalities, life-course analysis, social determinants of health, administrative data research, Trusted Research Environments (TREs), synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy."
+    "text": "Research Interests\nPopulation health, health inequalities, life-course analysis, social determinants of health, nursing and midwifery workforce research, administrative data research, record linkage, longitudinal data analysis, Trusted Research Environments (TREs), synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy."
   },
   {
     "objectID": "cv.html#honours-and-recognition",
     "href": "cv.html#honours-and-recognition",
     "title": "\nCurriculum Vitae\n",
     "section": " Honours and Recognition",
-    "text": "Honours and Recognition\nUK Research and Innovation (UKRI) Global Talent Endorsement, May 2026\nEndorsed by UK Research and Innovation under the Global Talent (Endorsed Funder) route in recognition of contributions to UKRI-funded research and innovation activities."
+    "text": "Honours and Recognition\nUKRI-Endorsed Global Talent Recipient, May 2026\nEndorsed by UK Research and Innovation (UKRI) under the Global Talent Endorsed Funder route in recognition of contributions to UKRI-funded research and innovation activities through Administrative Data Research UK (ADR UK) and Research Data Scotland, supporting the secure and responsible use of administrative data for research and public benefit."
   },
   {
     "objectID": "cv.html#grant-funding",
     "href": "cv.html#grant-funding",
     "title": "\nCurriculum Vitae\n",
     "section": " Grant Funding",
-    "text": "Grant Funding\nPrincipal Investigator – £64,508.43, March 2026\nAwarded funding for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot through the UKRI Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call, part of Grant No. UKRI739."
+    "text": "Grant Funding\nPrincipal Investigator – £64,508.43, March 2026\nAwarded funding for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot through the UKRI-funded Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call, part of Grant No. UKRI739."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "A selection of recent professional updates, research activities, presentations, publications, and milestones."
+  },
+  {
+    "objectID": "news.html#june-2026",
+    "href": "news.html#june-2026",
+    "title": "News",
+    "section": "June 2026",
+    "text": "June 2026\n\n📢 Presented FRAME-DS to the SDAP Community\nPresented FRAME-DS (Framework for Recognising Applied Data Stewardship Within TRE Workforces to the Secure Data Access Professionals (SDAP) community. The presentation introduced the project and explored how applied data stewardship can be recognised, supported, and strengthened across Trusted Research Environments (TREs) and Safe Havens."
+  },
+  {
+    "objectID": "news.html#may-2026",
+    "href": "news.html#may-2026",
+    "title": "News",
+    "section": "May 2026",
+    "text": "May 2026\n\n🌍 UKRI-Endorsed Global Talent Recipient\nReceived endorsement from UK Research and Innovation (UKRI) under the Global Talent Endorsed Funder route in recognition of contributions to UKRI-funded research and innovation through Administrative Data Research UK (ADR UK) and Research Data Scotland, supporting the secure and responsible use of administrative data for research and public benefit."
+  },
+  {
+    "objectID": "news.html#march-2026",
+    "href": "news.html#march-2026",
+    "title": "News",
+    "section": "March 2026",
+    "text": "March 2026\n\n💷 Awarded UKRI CaSDaR Funding as Principal Investigator\nAwarded £64,508.43 as Principal Investigator for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot through the UKRI-funded Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call. FRAME-DS was one of four projects selected for funding from 24 applications submitted to the competitive £70,000 funding stream, as announced by the CaSDaR Network+. Delivered collaboratively by Research Data Scotland and Electronic Data Research and Innovation Service (eDRIS) at Public Health Scotland, the project explores how applied data stewardship can be recognised, supported, and strengthened across TREs."
+  },
+  {
+    "objectID": "news.html#november-2025",
+    "href": "news.html#november-2025",
+    "title": "News",
+    "section": "November 2025",
+    "text": "November 2025\n\n🔍 Joined the ESRC Peer Review College\nAppointed as a member of the Economic and Social Research Council (ESRC) Peer Review College, contributing expertise in population data science, administrative data research, and quantitative methods."
+  },
+  {
+    "objectID": "news.html#september-2025",
+    "href": "news.html#september-2025",
+    "title": "News",
+    "section": "September 2025",
+    "text": "September 2025\n\n🎤 Presented at the ADR UK Conference 2025\nPresented Automating Low-Fidelity Synthetic Data Generation from Metadata: A Reproducible Approach Using R at the ADR UK Conference 2025. Also contributed to the conference poster ADRUK Ingest Improvement Task and Finish Group: Smoothing the Ingest of Data. Both abstracts were subsequently published in the International Journal of Population Data Science conference proceedings."
+  },
+  {
+    "objectID": "news.html#april-2025",
+    "href": "news.html#april-2025",
+    "title": "News",
+    "section": "April 2025",
+    "text": "April 2025\n\n📰 Featured by Research Data Scotland\nFeatured in a Research Data Scotland “Five-Minute Profile” interview discussing my career journey, research interests, and work in administrative data, synthetic data, and research infrastructure. Read the interview"
+  },
+  {
+    "objectID": "news.html#june-2025",
+    "href": "news.html#june-2025",
+    "title": "News",
+    "section": "June 2025",
+    "text": "June 2025\n\n🔐 Completed ONS Safe Researcher Training\nSuccessfully completed the Office for National Statistics (ONS) Safe Researcher Training and subsequently contributed to the delivery of training sessions supporting researchers working within Trusted Research Environments."
+  },
+  {
+    "objectID": "news.html#april-2026",
+    "href": "news.html#april-2026",
+    "title": "News",
+    "section": "April 2026",
+    "text": "April 2026\n\n📈 Achieved RSS Data Science Professional Status\nAwarded Data Science Professional status by the Royal Statistical Society (RSS), recognising professional competence and experience in data science and applied analytics."
+  },
+  {
+    "objectID": "news.html#december-2025",
+    "href": "news.html#december-2025",
+    "title": "News",
+    "section": "December 2025",
+    "text": "December 2025\n\n🏅 Achieved FEDIP Advanced Practitioner Status\nAwarded Advanced Practitioner status by The Federation for Informatics Professionals (FEDIP) in recognition of professional expertise and leadership in informatics.\n\n\n📊 Awarded RSS Graduate Statistician Status\nAwarded Graduate Statistician (GradStat) status by the Royal Statistical Society.\n\n\n📊 Awarded RSS Data Analyst Status\nAwarded Data Analyst status by the Royal Statistical Society."
+  },
+  {
+    "objectID": "news.html#present",
+    "href": "news.html#present",
+    "title": "News",
+    "section": "2022 – Present",
+    "text": "2022 – Present\n\n🤝 Mentoring and Research Community Engagement\nDelivered more than 30 one-to-one mentoring sessions through The Mentoring Club, supporting early-career professionals in data science, analytics, and research.\nContinued to contribute to the research community through peer review, mentoring, conference presentations, and open science initiatives.\n\nFor the latest updates, connect with me on LinkedIn or follow my blog.*"
+  },
+  {
+    "objectID": "news.html#october-2025",
+    "href": "news.html#october-2025",
+    "title": "News",
+    "section": "October 2025",
+    "text": "October 2025\n\n🔍 Joined the ESRC Peer Review College\nAppointed as a member of the Economic and Social Research Council (ESRC) Peer Review College, contributing expertise in population data science, administrative data research, and quantitative methods."
+  },
+  {
+    "objectID": "news.html#september-2024",
+    "href": "news.html#september-2024",
+    "title": "News",
+    "section": "September 2024",
+    "text": "September 2024\n\n🔬 Joined Research Data Scotland\nJoined Research Data Scotland as a Data Analyst, supporting the preparation, documentation, governance, and reuse of administrative datasets for research within Scotland’s National Safe Haven. My work focuses on metadata, synthetic data, reproducible analytical pipelines, and research data infrastructure that support population and social science research."
+  },
+  {
+    "objectID": "news.html#september-2023",
+    "href": "news.html#september-2023",
+    "title": "News",
+    "section": "September 2023",
+    "text": "September 2023\n\n🏥 Joined the University of Edinburgh\nJoined the University of Edinburgh as a Health Data Analyst, developing reproducible R and SQL pipelines for linked NHS datasets and supporting research into patient outcomes and healthcare services. I also developed interactive dashboards and contributed to data governance, metadata standardisation, and research data management activities."
+  },
+  {
+    "objectID": "news.html#july-2023",
+    "href": "news.html#july-2023",
+    "title": "News",
+    "section": "July 2023",
+    "text": "July 2023\n\n🎓 Graduated with an MSc in Health Data Science\nGraduated from Swansea University with an MSc in Health Data Science. The programme strengthened my interests in population data science, administrative data research, machine learning, and reproducible analytics. My dissertation applied machine learning methods to investigate the prediction of early-stage Alzheimer’s disease using the OASIS-3 dataset."
+  },
+  {
+    "objectID": "news.html#january-2022",
+    "href": "news.html#january-2022",
+    "title": "News",
+    "section": "January 2022",
+    "text": "January 2022\n\n🚀 Began MSc in Health Data Science\nStarted the MSc in Health Data Science at Swansea University, marking my transition into population data science, administrative data research, machine learning, and advanced statistical analysis. The programme provided training in health informatics, epidemiology, statistics, machine learning, and population data science, laying the foundation for my subsequent work in Trusted Research Environments, synthetic data, metadata, and research data infrastructure.\n\nFor the latest updates, connect with me on LinkedIn or follow my blog."
+  },
+  {
+    "objectID": "cv.html#certifications-and-training",
+    "href": "cv.html#certifications-and-training",
+    "title": "\nCurriculum Vitae\n",
+    "section": " Certifications and Training",
+    "text": "Certifications and Training\n\nEPSRC and ESRC Peer Review Training, November 2025\nOffice for National Statistics Safe Researcher Training, June 2025\nISO/IEC 27001:2013 Information Security Management Systems Lead Audit Course, 25th - 30th October 2021\nISO 9001:2015 Quality Management Systems Internal Auditor Course, 8th - 11th December 2020\nISO/IEC 27001:2013 Information Security Management Systems Internal Auditor Course, 20th - 22nd June 2018\nISO/IEC 27001:2013 Information Security Management Systems Lead Implementer Course, 13th - 14th and 16th June 2018"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "\nCurriculum Vitae\n",
+    "section": " Technical Skills",
+    "text": "Technical Skills\n\nProgramming and Statistical Analysis: R, SQL, SPSS, and Advanced Excel.\nStatistical Methods: Longitudinal and cohort analysis, demographic and population data analysis, regression modelling (linear, logistic, Poisson, negative binomial, Cox proportional hazards, and multilevel/mixed-effects models), epidemiological analysis, causal inference, record linkage, machine learning, spatial analysis, and hypothesis testing.\nData Visualisation and GIS: R, Tableau, Power BI, QGIS, and ArcGIS.\nResearch Data Infrastructure: Metadata standards, data governance, Trusted Research Environments (TREs), synthetic data generation, data quality assurance, administrative data research, and reproducible analytical pipelines (RAPs).\nReproducible Research and Version Control: Quarto, Git, and GitHub."
+  },
+  {
+    "objectID": "cv.html#peer-review-mentorship-and-research-engagement",
+    "href": "cv.html#peer-review-mentorship-and-research-engagement",
+    "title": "\nCurriculum Vitae\n",
+    "section": " Peer Review, Mentorship and Research Engagement",
+    "text": "Peer Review, Mentorship and Research Engagement\n\nMember, ESRC Peer Review College (10/2025 – Present) Expert reviewer for grant applications in population methods, data science, and social statistics.\nPeer Reviewer (03/2021 – Present) Reviewed 19 manuscripts across seven journals, including the International Journal of Population Data Science, Journal of Medical Internet Research (JMIR), JMIR Medical Informatics, JMIR Bioinformatics and Biotechnology, JMIR Perioperative Medicine, and JMIR Formative Research, and PLoS ONE.\nCertified Publons Academy Supervisor (Mentor) (09/2020 – 04/2021) Mentored six trainees on the Publons Academy Practical Peer Review Training Course, providing structured feedback and final review assessments."
   }
 ]

@@ -1,0 +1,94 @@
+---
+title: "News"
+---
+
+A selection of recent professional updates, research activities, presentations, publications, and milestones.
+
+## June 2026
+
+### 📢 Presented FRAME-DS to the SDAP Community
+
+Presented [FRAME-DS (Framework for Recognising Applied Data Stewardship Within TRE Workforces](https://securedatagroup.org/events/2026-2/){target="_blank"} to the [Secure Data Access Professionals (SDAP)](https://securedatagroup.org/){target="_blank"} community. The presentation introduced the project and explored how applied data stewardship can be recognised, supported, and strengthened across Trusted Research Environments (TREs) and Safe Havens.
+
+## May 2026
+
+### 🌍 UKRI-Endorsed Global Talent Recipient
+
+Received endorsement from [UK Research and Innovation (UKRI)](https://www.ukri.org/apply-for-funding/getting-a-global-talent-visa-to-do-research-in-the-uk/){target="_blank"} under the [Global Talent Endorsed Funder](https://www.gov.uk/global-talent-researcher-academic/uk-research-innovation-endorsement){target="_blank"} route in recognition of contributions to UKRI-funded research and innovation through [Administrative Data Research UK (ADR UK)](https://www.adruk.org/){target="_blank"} and [Research Data Scotland](https://www.researchdata.scot/work-and-impact/current-projects/adr-scotland-partnership/){target="_blank"}, supporting the secure and responsible use of administrative data for research and public benefit.
+
+
+## April 2026
+
+### 📈 Achieved RSS Data Science Professional Status
+
+Awarded [Data Science Professional](https://rss.org.uk/membership/professional-development/data-science-professional/){target="_blank"} status by the [Royal Statistical Society (RSS)](https://rss.org.uk/membership/professional-register/){target="_blank"}, recognising professional competence and experience in data science and applied analytics.
+
+## March 2026
+
+### 💷 Awarded UKRI CaSDaR Funding as Principal Investigator
+
+Awarded **£64,508.43** as Principal Investigator for **FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot** through the UKRI-funded Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call. FRAME-DS was one of four projects selected for funding from 24 applications submitted to the competitive £70,000 funding stream, as announced by the [CaSDaR Network+](https://casdar.ac.uk/announcing-the-results-of-casdars-funding-call-round-1/){target="_blank"}. Delivered collaboratively by [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} and [Electronic Data Research and Innovation Service (eDRIS)](https://publichealthscotland.scot/resources-and-tools/health-intelligence-and-data-management/electronic-data-research-and-innovation-service-edris/overview/what-is-edris/){target="_blank"} at [Public Health Scotland](https://publichealthscotland.scot/){target="_blank"}, the project explores how applied data stewardship can be recognised, supported, and strengthened across TREs.
+
+## December 2025
+
+### 🏅 Achieved FEDIP Advanced Practitioner Status
+
+Awarded [Advanced Practitioner](https://www.credly.com/badges/77959f5a-a602-409d-aadb-1a4b47baafce){target="_blank"} status by [The Federation for Informatics Professionals (FEDIP)](https://www.fedip.org/public-register){target="_blank"} in recognition of professional expertise and leadership in informatics.
+
+### 📊 Awarded RSS Graduate Statistician Status
+
+Awarded [Graduate Statistician (GradStat)](https://rss.org.uk/membership/professional-register/){target="_blank"} status by the Royal Statistical Society.
+
+### 📊 Awarded RSS Data Analyst Status
+
+Awarded [Data Analyst](https://rss.org.uk/membership/professional-register/){target="_blank"} status by the Royal Statistical Society.
+
+## October 2025
+
+### 🔍 Joined the ESRC Peer Review College
+
+Appointed as a member of the [Economic and Social Research Council (ESRC) Peer Review College](https://www.ukri.org/wp-content/uploads/2025/11/ESRC-141125-PeerReviewCollegeMembersNovember2025.pdf){target="_blank"}, contributing expertise in population data science, administrative data research, and quantitative methods.
+
+## September 2025
+
+### 🎤 Presented at the ADR UK Conference 2025
+
+Presented [Automating Low-Fidelity Synthetic Data Generation from Metadata: A Reproducible Approach Using R](https://ijpds.org/article/view/3134){target="_blank"} at the ADR UK Conference 2025. Also contributed to the conference poster [ADRUK Ingest Improvement Task and Finish Group: Smoothing the Ingest of Data](https://ijpds.org/article/view/3130){target="_blank"}. Both abstracts were subsequently published in the [International Journal of Population Data Science](https://ijpds.org/){target="_blank"} conference proceedings.
+
+## June 2025
+
+### 🔐 Completed ONS Safe Researcher Training
+
+Successfully completed the Office for National Statistics (ONS) Safe Researcher Training and subsequently contributed to the delivery of training sessions supporting researchers working within Trusted Research Environments.
+
+## April 2025
+
+### 📰 Featured by Research Data Scotland
+
+Featured in a [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} "**Five-Minute Profile**" interview discussing my career journey, research interests, and work in administrative data, synthetic data, and research infrastructure. [Read the interview](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}
+
+## September 2024
+
+### 🔬 Joined Research Data Scotland
+
+Joined [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} as a [Data Analyst](https://www.researchdata.scot/about-rds/our-people/){target="_blank"}, supporting the preparation, documentation, governance, and reuse of administrative datasets for research within Scotland's National Safe Haven. My work focuses on metadata, synthetic data, reproducible analytical pipelines, and research data infrastructure that support population and social science research.
+
+## September 2023
+
+### 🏥 Joined the University of Edinburgh
+
+Joined the [University of Edinburgh](https://www.ed.ac.uk/){target="_blank"} as a [Health Data Analyst](https://edwebprofiles.ed.ac.uk/profile/linus-chirchir){target="_blank"}, developing reproducible R and SQL pipelines for linked NHS datasets and supporting research into patient outcomes and healthcare services. I also developed interactive dashboards and contributed to data governance, metadata standardisation, and research data management activities.
+
+## July 2023
+
+### 🎓 Graduated with an MSc in Health Data Science
+
+Graduated from [Swansea University](https://www.swansea.ac.uk/){target="_blank"} with an [MSc in Health Data Science](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/){target="_blank"}. The programme strengthened my interests in population data science, administrative data research, machine learning, and reproducible analytics. My dissertation applied machine learning methods to investigate the prediction of early-stage Alzheimer's disease using the [OASIS-3](https://sites.wustl.edu/oasisbrains/home/oasis-3/){target="_blank"} dataset.
+
+## January 2022
+
+### 🚀 Began MSc in Health Data Science
+
+Started the [MSc in Health Data Science](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/){target="_blank"} at [Swansea University](https://www.swansea.ac.uk/){target="_blank"}, marking my transition into population data science, administrative data research, machine learning, and advanced statistical analysis. The programme provided training in health informatics, epidemiology, statistics, machine learning, and population data science, laying the foundation for my subsequent work in Trusted Research Environments, synthetic data, metadata, and research data infrastructure.
+
+> For the latest updates, connect with me on LinkedIn or follow my blog.

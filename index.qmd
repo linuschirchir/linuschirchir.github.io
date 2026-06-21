@@ -1,9 +1,9 @@
 ---
 title: "Linus Chirchir" 
 subtitle: |
-  <h5 style="text-align: center;">Data Analyst at Research Data Scotland</h5>
+  <h5 style="text-align: center;">Research Data | Data Science | Trusted Research Environments</h5>
 image: images/profile.jpg
-image-alt: "Thats Me."
+image-alt: "Profile Image"
 about:
   id: hero-heading
   template: trestles
@@ -42,7 +42,7 @@ execute:
 ---
 
 ::: {#hero-heading}
-I am a Data Analyst at Research Data Scotland with a strong interest in data-driven research, trusted research environments (TREs), data governance, and the responsible use of data for public benefit. 📊
+I am a Data Analyst at [Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"} with a strong interest in data-driven research, Trusted Research Environments (TREs), data governance, and the responsible use of data for public benefit. 📊 Read my five-minute profile interview with Research Data Scotland [here](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}.
 
 My work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.
 
