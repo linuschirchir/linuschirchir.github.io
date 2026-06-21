@@ -168,7 +168,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 
 ## <i class="fas fa-users"></i> Professional Affiliations
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.d-flex style="align-items:baseline"}
 ::: p-2
 [![](images/fedip_advanced_practitioner.PNG){width="80px" fig-alt="AdvFEDIP Logo"}](https://www.fedip.org/public-register)
 :::
@@ -176,7 +176,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 [The Federation for Informatics Professionals Advanced Practitioner FEDIP](https://www.credly.com/badges/77959f5a-a602-409d-aadb-1a4b47baafce){target="_blank"}, 12/2025 - Present
 :::
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.d-flex style="align-items:baseline"}
 ::: p-2
 [![](images/data_science_professional.jpg){width="80px" fig-alt="DSP Logo"}](https://rss.org.uk/)
 :::
@@ -184,7 +184,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 [Royal Statistical Society Data Science Professional Status](https://rss.org.uk/membership/professional-development/data-science-professional/){target="_blank"}, 04/2026 - Present
 :::
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.d-flex style="align-items:baseline"}
 ::: p-2
 [![](images/rss-grad_stat.jpg){width="80px" fig-alt="GradStat Logo"}](https://rss.org.uk/)
 :::
@@ -192,7 +192,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 [Royal Statistical Society Graduate Statistician Status](https://rss.org.uk/membership/professional-register/){target="_blank"}, 12/2025 - Present
 :::
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.d-flex style="align-items:baseline"}
 ::: p-2
 [![](images/rss_data_analyst.jpg){width="80px" fig-alt="Data Analyst Logo"}](https://rss.org.uk/)
 :::
@@ -200,7 +200,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 [Royal Statistical Society Data Analyst Status](https://rss.org.uk/membership/professional-register/){target="_blank"}, 12/2024 - 11/2025
 :::
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.d-flex style="align-items:baseline"}
 ::: p-2
 [![](images/rss_logo.svg){width="80px" fig-alt="RSS Logo"}](https://rss.org.uk/)
 :::
@@ -208,7 +208,7 @@ Endorsed by UK Research and Innovation under the Global Talent (Endorsed Funder)
 [Royal Statistical Society](https://rss.org.uk/){target="_blank"}, Member, Royal Statistical Society, 08/2024 - Present
 :::
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.d-flex style="align-items:baseline"}
 ::: p-2
 [![](images/apha_logo.svg){width="80px" fig-alt="AphA Logo"}](https://www.aphanalysts.org/)
 :::
