@@ -86,21 +86,21 @@
   {
     "objectID": "cv.html#personal-profile",
     "href": "cv.html#personal-profile",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Personal Profile",
-    "text": "Personal Profile\nPopulation and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments, synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit."
+    "text": "Personal Profile\nPopulation and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments TREs), synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit."
   },
   {
     "objectID": "cv.html#work-experience",
     "href": "cv.html#work-experience",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Work Experience",
     "text": "Work Experience\n\n\n\n\n\nResearch Data Scotland, Edinburgh, United Kingdom, Data Analyst, 09/2024 - Present\n\n\n\nAssess the suitability of administrative datasets for ingestion into Scotland’s National Safe Haven and linkage to other research datasets, identifying appropriate methods for collation, preparation, and updating, including data cleaning and quality assurance.\nUpdate datasets already held within the National Safe Haven, ensuring they meet current standards and requirements.\nFollow established processes and produce comprehensive documentation to track progress and aid researchers in understanding the purpose and content of the datasets, including preparing data dictionaries and collating metadata.\nCoordinate and communicate with external partner organisations to ensure dataset processing aligns with business objectives.\nReport progress to team members and external partner organisations to ensure effective delivery of the data sourcing pathway.\n\n\n\n\n\n\nUniversity of Edinburgh, Edinburgh, United Kingdom, Health Data Analyst, 09/2023 - 06/2024\n\n\n\nUtilised SQL and R to clean and merge datasets, consolidating over 13,000 records from various Excel files into a unified dataset, which reduced data processing time by 50% and improved data accessibility for analysis by 30%.\nLeveraged R for comprehensive analyses of NHS and administrative datasets, applying statistical techniques to generate actionable insights that directly impacted service improvements for over 500 patients. Developed and implemented R-based data analysis pipelines, optimising statistical efficiency and data quality, resulting in a 20% increase in data processing speed and a 15% reduction in data errors, enhancing research accuracy.\nContributed to manuscripts for peer-reviewed journals, ensuring methodological rigour and reproducibility through R-generated analyses. This effort led to a 25% increase in publication acceptance rates, enhancing the visibility and impact of the research.\nDeveloped an Orthopaedic Surgery Dashboard using Shiny, featuring interactive visualisations that displayed demographics, patient-reported measures, consultant performance metrics, and patient satisfaction. The Dashboard provided valuable insights, reducing manual data analysis time by 40%, increasing data-driven decision-making by 50%, and improving patient care outcomes, contributing to a 15% increase in overall patient satisfaction.\nEngaged collaboratively in weekly meetings, serving as the liaison between the Data Controller and Research Database Manager, aligning project goals and data requirements, improving project completion timelines by 10%, and facilitating better team coordination.\n\n\n\n\n\n\nMoi Teaching and Referral Hospital, Eldoret, Kenya, ICT Officer/Researcher, 07/2008 - 12/2021\n\n\n\nIdentified, analysed, and interpreted trends and patterns in 104 health-related datasets, leading to actionable insights that improved healthcare service delivery, resulting in a 15% increase in patient satisfaction.\nFormed hypotheses and tested ideas to determine the viability of operational outcomes, resulting in data-driven recommendations that optimised resource allocation and enhanced service efficiency, saving the organisation approximately 10% in operational costs.\nUsed SQL to develop KPIs in collaboration with cross-functional teams, resulting in a 103% increase in organic traffic to the organisational website, significantly enhancing its visibility and reach.\nCollaborated with department managers to identify and correct data problems, improving data accuracy and reliability, which enhanced data analysis effectiveness by 40%.\nLed the development and implementation of interactive data visualisations within the organisation, increasing user engagement by 35% and improving data comprehension among stakeholders."
   },
   {
     "objectID": "cv.html#teaching-experience",
     "href": "cv.html#teaching-experience",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Teaching Experience",
     "text": "Teaching Experience\n\n\n\n\n\nUniversity of Eldoret, Eldoret, Kenya, Part-time Lecturer, 01/2015 - 12/2021\n\n\n\nCourses Taught: Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems."
   },
@@ -114,7 +114,7 @@
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Education",
     "text": "Education\n\n\n\n\n\nSwansea University, Swansea, United Kingdom, Master of Science in Health Data Science, 01/2022 - 05/2023\n\n\n\n\n\n\n\nUnited States International University - Africa, Nairobi, Kenya, Master of Business Administration, 09/2018 - 08/2019\n\n\n\n\n\n\n\nKisii University, Kisii, Kenya, Master of Information Systems, 01/2014 - 12/2015\n\n\n\n\n\n\n\nMoi University, Eldoret, Kenya, Bachelor of Business Management (Business Information Systems Management), 09/2008 - 12/2012"
   },
@@ -128,7 +128,7 @@
   {
     "objectID": "cv.html#professional-affiliations",
     "href": "cv.html#professional-affiliations",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Professional Affiliations",
     "text": "Professional Affiliations\n\n\n\n\nRoyal Statistical Society Data Science Professional Status, 04/2026 - Present\n\n\n\n\n\nThe Federation for Informatics Professionals Advanced Practitioner FEDIP, 12/2025 - Present\n\n\n\n\n\nRoyal Statistical Society Graduate Statistician Status, 11/2025 - Present\n\n\n\n\n\nRoyal Statistical Society Data Analyst Status, 12/2024 - 11/2025\n\n\n\n\n\nRoyal Statistical Society, Member, 08/2024 - Present\n\n\n\n\n\nAssociation of Professional Healthcare Analysts (AphA), Member, 02/2022 - Present"
   },
@@ -142,7 +142,7 @@
   {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Publications",
     "text": "Publications\n\n Peer Reviewed Conferences\n\nChirchir, L., (2025). Automating Low-Fidelity Synthetic Data Generation from Metadata: A Reproducible Approach Using R. International Journal of Population Data Science, 10(4). https://doi.org/10.23889/ijpds.v10i4.3134.\nBishop, J., Chirchir, L., Coey, R., Dunlop, A., Evans, H., Grzybowski, D., Harbinson, A., Magder, C., McCullough, N., McFerran, R., Muir, J., Ramage, A., Telford, S., Thomas, R. and Vilcan, T. (2025). ADRUK Ingest Improvement Task and Finish Group: Smoothing the ingest of data. International Journal of Population Data Science, 10(4). https://doi.org/10.23889/ijpds.v10i4.3130.\nChirchir, L. K., Aruasa, W. K., Kugo, L. C., Rop, C. C., & Mwogi, T. S. Investigating the Use of Facebook by Medical Institutions in Kenya. PACIS 2021 Proceedings. 230. https://aisel.aisnet.org/pacis2021/230/.\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Change Process Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. Procedia Computer Science, 181, 427–433. https://doi.org/10.1016/j.procs.2021.01.187.\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2020). Determining Role of Social Factors in Adoption of Electronic Health Records by Nurses. Studies in Health Technology and Informatics, 272, 111–114. https://doi.org/10.3233/SHTI200506.\n\n\n\n Peer Reviewed Journal Articles\n\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2021). Technical Factors Influencing Electronic Health Records Adoption by Nurses at Moi Teaching and Referral Hospital, Kenya. African Journal of Science, Technology, Innovation and Development, 13(5), 551 - 558. https://doi.org/10.1080/20421338.2020.1777676.\nAruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Implications of Physicians and Nurses’ Professional Satisfaction on Patient Care. International Journal of Public Health Science (IJPHS), 8 (3), 300 – 306. http://doi.org/10.11591/ijphs.v8i3.20238.\nChebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Effect of Inspirational Motivation and Idealized Influence on Employee Performance at Moi Teaching and Referral Hospital, Eldoret, Kenya. International Journal of Business and Social Science, 10(7), 131 – 140. http://doi.org/10.30845/ijbss.v10n7p14.\nAruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Determinants of Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. Journal of Health, Medicine and Nursing, 64, 6 – 17. http://doi.org/10.7176/JHMN/64-02.\nAruasa, W. K., Chirchir, L. K., & Chebon, S. K. (2019). Strategies for Improving Physicians and Nurses’ Professional Satisfaction at the Moi Teaching and Referral Hospital, Eldoret, Kenya. The Strategic Journal of Business & Change Management, 6 (3), 216 – 226.\nChebon, S. K., Aruasa, W. K., & Chirchir, L. K. (2019). Influence of Individualized Consideration and Intellectual Stimulation on Employee Performance: Lessons from Moi Teaching and Referral Hospital, Eldoret, Kenya. IOSR Journal of Humanities and Social Science, 24 (7), 11 – 22.\nChirchir, L. K., Aruasa, W. K., & Chebon, S. K. (2019). Perceived Usefulness and Ease of Use as Mediators of the Effect of Health Information Systems on User Performance. European Journal of Computer Science and Information Technology, 7 (1), 22 – 37.\nIreri, E. N., Omondi, Y. A., Chirchir, L. K., & Wafula, M. K. (2015). Adoption of Enterprise Resource Planning System in Kenya: A Case Study of Kenya Ordnance Factories Corporation. International Journal of Current Research, 7 (4), 14702 – 14711."
   },
@@ -170,21 +170,21 @@
   {
     "objectID": "cv.html#research-interests",
     "href": "cv.html#research-interests",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Research Interests",
-    "text": "Research Interests\nPopulation health, health inequalities, life-course analysis, social determinants of health, nursing and midwifery workforce research, administrative data research, record linkage, longitudinal data analysis, Trusted Research Environments (TREs), synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy."
+    "text": "Research Interests\nPopulation health, health inequalities, life-course analysis, social determinants of health, nursing and midwifery workforce research, administrative data research, record linkage, longitudinal data analysis, TREs, synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy."
   },
   {
     "objectID": "cv.html#honours-and-recognition",
     "href": "cv.html#honours-and-recognition",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Honours and Recognition",
     "text": "Honours and Recognition\nUKRI-Endorsed Global Talent Recipient, May 2026\nEndorsed by UK Research and Innovation (UKRI) under the Global Talent Endorsed Funder route in recognition of contributions to UKRI-funded research and innovation activities through Administrative Data Research UK (ADR UK) and Research Data Scotland, supporting the secure and responsible use of administrative data for research and public benefit."
   },
   {
     "objectID": "cv.html#grant-funding",
     "href": "cv.html#grant-funding",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Grant Funding",
     "text": "Grant Funding\nPrincipal Investigator – £64,508.43, March 2026\nAwarded funding for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot through the UKRI-funded Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call, part of Grant No. UKRI739."
   },
@@ -303,22 +303,29 @@
   {
     "objectID": "cv.html#certifications-and-training",
     "href": "cv.html#certifications-and-training",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Certifications and Training",
     "text": "Certifications and Training\n\nEPSRC and ESRC Peer Review Training, November 2025\nOffice for National Statistics Safe Researcher Training, June 2025\nISO/IEC 27001:2013 Information Security Management Systems Lead Audit Course, 25th - 30th October 2021\nISO 9001:2015 Quality Management Systems Internal Auditor Course, 8th - 11th December 2020\nISO/IEC 27001:2013 Information Security Management Systems Internal Auditor Course, 20th - 22nd June 2018\nISO/IEC 27001:2013 Information Security Management Systems Lead Implementer Course, 13th - 14th and 16th June 2018"
   },
   {
     "objectID": "cv.html#technical-skills",
     "href": "cv.html#technical-skills",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Technical Skills",
     "text": "Technical Skills\n\nProgramming and Statistical Analysis: R, SQL, SPSS, and Advanced Excel.\nStatistical Methods: Longitudinal and cohort analysis, demographic and population data analysis, regression modelling (linear, logistic, Poisson, negative binomial, Cox proportional hazards, and multilevel/mixed-effects models), epidemiological analysis, causal inference, record linkage, machine learning, spatial analysis, and hypothesis testing.\nData Visualisation and GIS: R, Tableau, Power BI, QGIS, and ArcGIS.\nResearch Data Infrastructure: Metadata standards, data governance, Trusted Research Environments (TREs), synthetic data generation, data quality assurance, administrative data research, and reproducible analytical pipelines (RAPs).\nReproducible Research and Version Control: Quarto, Git, and GitHub."
   },
   {
     "objectID": "cv.html#peer-review-mentorship-and-research-engagement",
     "href": "cv.html#peer-review-mentorship-and-research-engagement",
-    "title": "\nCurriculum Vitae\n",
+    "title": "\nLinus Chirchir\n",
     "section": " Peer Review, Mentorship and Research Engagement",
     "text": "Peer Review, Mentorship and Research Engagement\n\nMember, ESRC Peer Review College (10/2025 – Present) Expert reviewer for grant applications in population methods, data science, and social statistics.\nPeer Reviewer (03/2021 – Present) Reviewed 19 manuscripts across seven journals, including the International Journal of Population Data Science, Journal of Medical Internet Research (JMIR), JMIR Medical Informatics, JMIR Bioinformatics and Biotechnology, JMIR Perioperative Medicine, and JMIR Formative Research, and PLoS ONE.\nCertified Publons Academy Supervisor (Mentor) (09/2020 – 04/2021) Mentored six trainees on the Publons Academy Practical Peer Review Training Course, providing structured feedback and final review assessments."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "\nLinus Chirchir\n",
+    "section": "",
+    "text": "Population and Health Data Scientist Edinburgh, United Kingdom"
   }
 ]

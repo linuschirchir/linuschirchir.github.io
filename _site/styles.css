@@ -3,3 +3,22 @@
 p {
   text-align: justify;
 }
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.cv-links {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  gap: 0.3rem;
+}
+
+.cv-links span {
+  margin: 0 0.2rem;
+}

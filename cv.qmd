@@ -12,15 +12,44 @@ anchor-sections: true
 
 <!-- Centering the title -->
 
-<h1 style="text-align: center;">Curriculum Vitae</h1>
+<h1 style="text-align: center; margin-bottom: 0;">
+  Linus Chirchir
+</h1>
+
+<p style="text-align: center; line-height: 1.2; margin: 0.25rem 0 0.5rem 0;">
+  Population and Health Data Scientist<br>
+  Edinburgh, United Kingdom
+</p>
+
+<div class="centered cv-links">
+
+  <i class="fas fa-id-badge"></i>
+  <a href="https://orcid.org/0000-0003-2687-5967" target="_blank">ORCID</a>
+
+  <span>|</span>
+
+  <i class="fas fa-graduation-cap"></i>
+  <a href="https://scholar.google.com/citations?user=0DCF9mwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+
+  <span>|</span>
+
+  <i class="fas fa-book"></i>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57217593474" target="_blank">Scopus</a>
+
+  <span>|</span>
+
+  <i class="fas fa-chart-line"></i>
+  <a href="https://www.webofscience.com/wos/author/record/AAP-3550-2020" target="_blank">Web of Science</a>
+
+</div>
 
 ## <i class="fas fa-user"></i> Personal Profile
 
-Population and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments, synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit.
+Population and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments TREs), synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit.
 
 ## <i class="fas fa-search"></i> Research Interests
 
-Population health, health inequalities, life-course analysis, social determinants of health, nursing and midwifery workforce research, administrative data research, record linkage, longitudinal data analysis, Trusted Research Environments (TREs), synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy.
+Population health, health inequalities, life-course analysis, social determinants of health, nursing and midwifery workforce research, administrative data research, record linkage, longitudinal data analysis, TREs, synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy.
 
 ## <i class="fas fa-briefcase"></i> Work Experience
 

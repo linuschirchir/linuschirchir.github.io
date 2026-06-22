@@ -12,7 +12,7 @@ website:
   open-graph: true
   site-url: https://linuschirchir.com
   repo-url: https://github.com/linuschirchir/linuschirchir.github.io
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   cookie-consent:
     type: express
     prefs-text: "Change cookies 🍪"
