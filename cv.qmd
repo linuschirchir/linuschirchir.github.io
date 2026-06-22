@@ -208,6 +208,14 @@ Mentored six trainees on the Publons Academy Practical Peer Review Training Cour
 
 ::: {.d-flex style="align-items:baseline"}
 ::: p-2
+[![](images/rda_logo.png){width="80px" fig-alt="RDA Logo"}](https://www.rd-alliance.org/)
+:::
+
+[Research Data Alliance](https://www.rd-alliance.org/members/linuschirchir/){target="_blank"}, Member, 01/2026 - Present
+:::
+
+::: {.d-flex style="align-items:baseline"}
+::: p-2
 [![](images/data_science_professional.jpg){width="80px" fig-alt="DSP Logo"}](https://rss.org.uk/)
 :::
 

@@ -97,7 +97,7 @@ website:
 format:
   html:
     grid: 
-      body-width: 2000px
+      body-width: 1500px
       sidebar-width: 200px
       margin-width: 200px
     theme:
