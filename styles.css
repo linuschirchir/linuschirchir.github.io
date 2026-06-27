@@ -1,8 +1,8 @@
 /* css styles */
-
-p {
-  text-align: justify;
-}
+  
+  p {
+    text-align: justify;
+  }
 
 .centered {
   display: flex;

@@ -1,6 +1,20 @@
 ---
-title: "News"
+pagetitle: "News"
 ---
+
+This page highlights recent professional milestones, research activities, conference presentations, publications, awards, funding, and other updates from my work in population data science, administrative data research, and Trusted Research Environments (TREs).
+
+## November 2026
+
+### 🎤 Invited to Present FRAME-DS at the CaSDaR Hybrid Data Steward Conference 2026
+
+Invited to present **FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces** at the [CaSDaR Hybrid Data Steward Conference 2026](https://casdar.ac.uk/event/casdars-hybrid-data-steward-conference-2026/){target="_blank"} at [The Midland, Manchester](https://www.themidlandhotel.co.uk/){target="_blank"}, on **17–18 November 2026**. The conference brings together data stewards, researchers, research technical professionals, and research infrastructure leaders from across the UK to share best practice, showcase funded projects, and shape the future of data stewardship.
+
+## July 2026
+
+### 🎤 Selected as a Panellist for the Global Talent Research & Academia Summit 2026
+
+Selected as a panellist for the inaugural [Global Talent Research & Academia Summit 2026](https://www.linkedin.com/feed/update/urn:li:activity:7476357809866043392/){target="_blank"} at the [University Park Campus, University of Nottingham](https://www.nottingham.ac.uk/about/campuses/universityparkcampus.aspx){target="_blank"} on **11 July 2026**. The summit brings together UK Global Talent Visa recipients from across research and academia to share their journeys, experiences, and contributions to research and innovation in the UK.
 
 ## June 2026
 

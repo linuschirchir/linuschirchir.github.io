@@ -18,7 +18,7 @@ anchor-sections: true
 
 <p style="text-align: center; line-height: 1.2; margin: 0.25rem 0 0.5rem 0;">
   Population and Health Data Scientist<br>
-  Edinburgh, United Kingdom
+  Edinburgh, Scotland, United Kingdom
 </p>
 
 <div class="centered cv-links">

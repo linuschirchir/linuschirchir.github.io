@@ -42,13 +42,13 @@ execute:
 ---
 
 ::: {#hero-heading}
-I am a Data Analyst at [Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"} with a strong interest in data-driven research, Trusted Research Environments (TREs), data governance, and the responsible use of data for public benefit. 📊 Read my five-minute profile interview with Research Data Scotland [here](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}.
+I am a Data Analyst at [Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"} with a strong interest in data-driven research, Trusted Research Environments (TREs), data governance, and the responsible use of data for public benefit. Read my five-minute profile interview with Research Data Scotland [here](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}.
 
 My work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.
 
-I have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto. 🛠️
+I have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto.
 
 My interests span data science, artificial intelligence, machine learning, synthetic data, metadata, and data stewardship. I am particularly passionate about strengthening the research data ecosystem by improving data quality, transparency, accessibility, and trust.
 
-Through my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact. 🌍
+Through my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact.
 :::

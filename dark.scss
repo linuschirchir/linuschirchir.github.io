@@ -1,4 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
 /*-- scss:defaults --*/
+
+// Typography
+$font-family-sans-serif: "Lato", sans-serif;
+$headings-font-family: "Lato", sans-serif;
+
 // Base document colors
 $body-bg: #181818;
 $body-color: white;
