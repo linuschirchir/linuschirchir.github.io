@@ -1,10 +1,5 @@
 ---
 pagetitle: "CV"
-format:
-  html:
-    toc: false
-  docx:
-    toc: false
 execute:
   freeze: true
 anchor-sections: true
@@ -43,6 +38,15 @@ anchor-sections: true
   <i class="fas fa-chart-line"></i>
   <a href="https://www.webofscience.com/wos/author/record/AAP-3550-2020" target="_blank">Web of Science</a>
 
+</div>
+
+<div class="centered" style="margin-top:0.5rem; margin-bottom:1.5rem;">
+  <a href="files/CV_Linus_Chirchir.pdf"
+     class="btn btn-primary"
+     target="_blank"
+     download>
+    <i class="fas fa-download"></i> Download CV (PDF)
+  </a>
 </div>
 
 ## <i class="fas fa-user"></i> Personal Profile
