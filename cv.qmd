@@ -1,9 +1,11 @@
 ---
 pagetitle: "CV"
----
-
----
-execute: 
+format:
+  html:
+    toc: false
+  docx:
+    toc: false
+execute:
   freeze: true
 anchor-sections: true
 ---
@@ -45,7 +47,7 @@ anchor-sections: true
 
 ## <i class="fas fa-user"></i> Personal Profile
 
-Population and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments TREs), synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit.
+Population and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments (TREs), synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit.
 
 ## <i class="fas fa-search"></i> Research Interests
 
@@ -248,7 +250,7 @@ Mentored six trainees on the Publons Academy Practical Peer Review Training Cour
 
 ::: {.d-flex style="align-items:baseline"}
 ::: p-2
-[![](images/rss_logo.svg){width="80px" fig-alt="RSS Logo"}](https://rss.org.uk/)
+[![](images/rss_logo.PNG){width="80px" fig-alt="RSS Logo"}](https://rss.org.uk/)
 :::
 
 [Royal Statistical Society](https://rss.org.uk/){target="_blank"}, Member, 08/2024 - Present
@@ -256,7 +258,7 @@ Mentored six trainees on the Publons Academy Practical Peer Review Training Cour
 
 ::: {.d-flex style="align-items:baseline"}
 ::: p-2
-[![](images/apha_logo.svg){width="80px" fig-alt="AphA Logo"}](https://www.aphanalysts.org/)
+[![](images/apha_logo.PNG){width="80px" fig-alt="AphA Logo"}](https://www.aphanalysts.org/)
 :::
 
 [Association of Professional Healthcare Analysts (AphA)](https://www.aphanalysts.org/){target="_blank"}, Member, 02/2022 - Present
