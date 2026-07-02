@@ -77,10 +77,11 @@ website:
     background: "#4169E1"
     left: >-
       Copyright &#169; {{< now year >}} Linus Chirchir
-    right:
+    center:
       - text: "Support My Work ☕"
         href: https://buymeacoffee.com/linuschirchir
         target: _blank
+    right:
       - text: "Accessibility"
         href: accessibility.qmd
         aria-label: Accessibility Commitment

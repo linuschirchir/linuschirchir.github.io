@@ -45,16 +45,3 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
-
-.nav-footer-right {
-  display: flex;
-  flex-wrap: nowrap;
-  white-space: nowrap;
-  gap: 1rem;
-  flex-shrink: 0;
-}
-
-.nav-footer-right .nav-link,
-.nav-footer-right a {
-  white-space: nowrap;
-}
