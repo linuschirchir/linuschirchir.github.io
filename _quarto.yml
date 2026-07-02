@@ -76,21 +76,21 @@ website:
   page-footer:
     background: "#4169E1"
     left: >-
-      Copyright &#169; {{< now year >}} Linus Chirchir
+      Copyright &#169; {{< now year >}} Linus Chirchir 
     center:
+      - text: "Contact"
+        href: contact.qmd
+        aria-label: Contact
+    right:
       - text: "Support My Work ☕"
         href: https://buymeacoffee.com/linuschirchir
         target: _blank
-    right:
       - text: "Accessibility"
         href: accessibility.qmd
         aria-label: Accessibility Commitment
       - text: "Code of Conduct"
         href: coc.qmd
         aria-label: Code of Conduct
-      - text: "Contact"
-        href: contact.qmd
-        aria-label: Contact
       - text: "Licence"
         href: licence.qmd
         aria-label: Licence Details
