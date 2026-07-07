@@ -25,15 +25,10 @@ about:
       aria-label: ORCID
       href: https://orcid.org/0000-0003-2687-5967
       target: _blank
-    - icon: github
-      text: GitHub
-      aria-label: GitHub
-      href: https://github.com/LinusChirchir
-      target: _blank
-    - icon: envelope
-      text: Contact
-      aria-label: Contact
-      href: mailto:linus@linuschirchir.com
+    - icon: calendar-event
+      text: Book a Session
+      aria-label: Book a Session
+      href: https://tidycal.com/linuschirchir
       target: _blank
 toc: false
 anchor-sections: false

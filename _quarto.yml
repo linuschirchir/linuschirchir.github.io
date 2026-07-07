@@ -69,6 +69,10 @@ website:
       aria-label: Twitter/X
       href: https://x.com/LinusChirchir
       target: _blank
+    - icon: calendar-event
+      aria-label: Book a Session
+      href: https://tidycal.com/linuschirchir
+      target: _blank
     - icon: envelope
       aria-label: Contact
       href: mailto:linus@linuschirchir.com
@@ -78,8 +82,8 @@ website:
     left: >-
       Copyright &#169; {{< now year >}} Linus Chirchir
     right:
-      - text: "Support My Work ☕"
-        href: https://buymeacoffee.com/linuschirchir
+      - text: "Book a Session"
+        href: https://tidycal.com/linuschirchir
         target: _blank
       - text: "Accessibility"
         href: accessibility.qmd
