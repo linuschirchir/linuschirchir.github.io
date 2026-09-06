@@ -12,7 +12,7 @@ Invited to present [FRAME-DS: Framework for Recognising Applied Data Stewardship
 
 ## September 2026
 
-### 🎓 Accepted PhD Offer at Edinburgh Napier University
+### 📝 Accepted PhD Offer at Edinburgh Napier University
 
 Accepted an unconditional offer to undertake a [PhD in Health and Social Care](https://www.napier.ac.uk/research-and-innovation/doctoral-college/phd){target="_blank"} at [Edinburgh Napier University](https://www.napier.ac.uk/about-us/our-schools/the-school-of-health-and-social-care){target="_blank"}, commencing in **October 2026**. The PhD is supported by an Edinburgh Napier University studentship. My research project, [Using Nationally Representative Data to Understand the Nursing and Midwifery Professions in the United Kingdom](https://www.findaphd.com/phds/project/using-nationally-representative-data-to-understand-the-nursing-and-midwifery-professions-in-the-united-kingdom-shsc0061/?p184975){target="_blank"}, will use nationally representative data to investigate the nursing and midwifery professions in the UK and generate evidence to inform workforce research, policy, and planning. The PhD will be supervised by [Professor Iain Atherton](https://napier-repository.worktribe.com/person/111326/iain-atherton){target="_blank"}, [Dr William L. Palmer](https://www.linkedin.com/in/dr-william-l-palmer-74641b3/){target="_blank"}, and [Dr Martin Sharp](https://napier-repository.worktribe.com/person/2878950/dr-martin-sharp){target="_blank"}.
 
@@ -45,7 +45,7 @@ Awarded [Data Science Professional](https://rss.org.uk/membership/professional-d
 
 ### 💷 Awarded UKRI CaSDaR Funding as Principal Investigator
 
-Awarded **£64,508.43** as Principal Investigator for **FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot** through the UKRI-funded Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call. FRAME-DS was one of four projects selected for funding from 24 applications submitted to the competitive £70,000 funding stream, as announced by the [CaSDaR Network+](https://casdar.ac.uk/announcing-the-results-of-casdars-funding-call-round-1/){target="_blank"}. Delivered collaboratively by [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} and [Electronic Data Research and Innovation Service (eDRIS)](https://publichealthscotland.scot/resources-and-tools/health-intelligence-and-data-management/electronic-data-research-and-innovation-service-edris/overview/what-is-edris/){target="_blank"} at [Public Health Scotland](https://publichealthscotland.scot/){target="_blank"}, the project explores how applied data stewardship can be recognised, supported, and strengthened across TREs.
+Awarded **£64,508.43** as Principal Investigator for **FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces**, one of four projects selected from 24 applications through the UKRI-funded [CaSDaR Network+](https://casdar.ac.uk/announcing-the-results-of-casdars-funding-call-round-1/){target="_blank"}. Delivered collaboratively by [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} and [Electronic Data Research and Innovation Service (eDRIS)](https://publichealthscotland.scot/resources-and-tools/health-intelligence-and-data-management/electronic-data-research-and-innovation-service-edris/overview/what-is-edris/){target="_blank"} at [Public Health Scotland](https://publichealthscotland.scot/){target="_blank"}, FRAME-DS focuses on recognising and strengthening applied data stewardship across Trusted Research Environments (TREs).
 
 ## December 2025
 
@@ -55,7 +55,7 @@ Awarded [Advanced Practitioner](https://www.credly.com/badges/77959f5a-a602-409d
 
 ## November 2025
 
-### 📊 Awarded RSS Graduate Statistician Status
+### 📊 Achieved RSS Graduate Statistician Status
 
 Awarded [Graduate Statistician (GradStat)](https://rss.org.uk/membership/professional-register/){target="_blank"} status by the Royal Statistical Society.
 
@@ -75,7 +75,17 @@ Presented [Automating Low-Fidelity Synthetic Data Generation from Metadata: A Re
 
 ### 🔐 Completed ONS Safe Researcher Training
 
-Successfully completed the Office for National Statistics (ONS) Safe Researcher Training and subsequently contributed to the delivery of training sessions supporting researchers working within Trusted Research Environments.
+Successfully completed the [Office for National Statistics (ONS) Safe Researcher Training](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/becomeanaccreditedresearcher){target="_blank"} and subsequently contributed to the delivery of training sessions supporting researchers working within Trusted Research Environments.
+
+### 🔗 Completed Privacy-Preserving Record Linkage Workshop
+
+Participated in the [Privacy-Preserving Record Linkage Workshop](https://www.adruk.org/news-publications/events/events/privacy-preserving-record-linkage-workshop/){target="_blank"} delivered by [ADR Scotland](https://www.adrscotland.org/){target="_blank"} on **3–4 June 2025** at the [Edinburgh Futures Institute](https://efi.ed.ac.uk/){target="_blank"}, [University of Edinburgh](https://www.ed.ac.uk/){target="_blank"}. The two-day workshop covered the concepts, methods, limitations, and real-world applications of privacy-preserving record linkage (PPRL), including practical and research perspectives from experts in the field.
+
+## May 2025
+
+### 🌿 Completed Version Control with Git and GitHub Training
+
+Completed a practical **Version Control with Git and GitHub** training session on **29 May 2025**, covering version control principles, branching, merging, collaborative workflows, and open science practices. The training strengthened my use of Git and GitHub for reproducible, transparent, and collaborative research and data science workflows. [Training materials are available on GitHub](https://github.com/DCS-training/version-control-2024){target="_blank"}.
 
 ## April 2025
 
@@ -83,17 +93,39 @@ Successfully completed the Office for National Statistics (ONS) Safe Researcher 
 
 Featured in a [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} "**Five-Minute Profile**" interview discussing my career journey, research interests, and work in administrative data, synthetic data, and research infrastructure. [Read the interview](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}
 
+## February 2025
+
+### 💻 Completed R for Health Data Research Course
+
+Completed the **Beginner, Intermediate and Advanced R for Health Data Research** course delivered by [Health Data Research UK (HDR UK)](https://www.hdruk.ac.uk/){target="_blank"} and led by [Dr Ewan Carr](https://www.kcl.ac.uk/people/ewan-carr){target="_blank"}, from **21 January to 11 February 2025**. The course provided practical training in R for health data research, progressing from beginner to advanced techniques. [Course materials](https://ewancarr.github.io/hdr-january-2025/){target="_blank"}.
+
 ## December 2024
 
-### 📊 Awarded RSS Data Analyst Status
+### 📊 Achieved RSS Data Analyst Status
 
 Awarded [Data Analyst](https://rss.org.uk/membership/professional-register/){target="_blank"} status by the Royal Statistical Society.
 
+## November 2024
+
+### 📚 Completed Introduction to Administrative Data Research and Analysis (IADRA)
+
+Completed the [Introduction to Administrative Data Research and Analysis (IADRA)](https://www.adrscotland.org/training-support/introduction-to-administrative-data-research-and-analysis-iadra/){target="_blank"} course delivered by [ADR Scotland](https://www.adrscotland.org/){target="_blank"}. The four-week programme combined expert-led lectures with practical R exercises using synthetic data from the [Scottish Longitudinal Study (SLS)](https://sls.lscs.ac.uk/){target="_blank"}, covering data provenance, record linkage, data quality, visualisation, and analysis of linked administrative data.
+
 ## September 2024
+
+### 🧬 Completed Workshop on Synthetic Data and Synthpop
+
+Participated in the [Synthetic Data Workshop](https://www.researchdata.scot/news-and-insights/synthetic-data-workshop-5-september-2024/){target="_blank"}, led by [Professor Gillian Raab](https://sls.lscs.ac.uk/about/the-sls-team/prof-gillian-raab/){target="_blank"} on **5 September 2024**. The hands-on workshop introduced the [`synthpop`](https://www.synthpop.org.uk/){target="_blank"} package in R and covered the creation of synthetic versions of confidential datasets, low- and high-fidelity synthetic data, and practical approaches to data confidentiality. The workshop strengthened my understanding of synthetic data generation and its responsible use in research environments, particularly for supporting data privacy, reproducibility, and safe access to sensitive data.
 
 ### 🔬 Joined Research Data Scotland
 
 Joined [Research Data Scotland](https://www.researchdata.scot/){target="_blank"} as a [Data Analyst](https://www.researchdata.scot/about-rds/our-people/){target="_blank"}, supporting the preparation, documentation, governance, and reuse of administrative datasets for research within Scotland's National Safe Haven. My work focuses on metadata, synthetic data, reproducible analytical pipelines, and research data infrastructure that support population and social science research.
+
+## August 2024
+
+### 📊 Completed Workshop on Efficient Large-Scale Data Processing in R
+
+Participated in the workshop **“Processing Large-Scale Data Efficiently: An Introduction to the R Package `data.table`”**, delivered by [Dr Andreas Hoehn](https://www.gla.ac.uk/schools/healthwellbeing/staff/andreashoehn/){target="_blank"} on **15 August 2024**. The workshop covered efficient data manipulation, memory management, benchmarking, parallel processing, and practical techniques for working with large datasets in R. The training strengthened my use of [`data.table`](https://rdatatable.gitlab.io/data.table/){target="_blank"} for high-performance data processing and helped improve the efficiency of analytical workflows involving large datasets. [Workshop materials, slides, and code examples are available on GitHub](https://github.com/AndreasxHoehn/2024_RDS_DT){target="_blank"}.
 
 ## September 2023
 
@@ -112,5 +144,3 @@ Graduated from [Swansea University](https://www.swansea.ac.uk/){target="_blank"}
 ### 🚀 Began MSc in Health Data Science
 
 Started the [MSc in Health Data Science](https://www.swansea.ac.uk/postgraduate/taught/medicine/health-data-science-msc-pgdip-pgcert/){target="_blank"} at [Swansea University](https://www.swansea.ac.uk/){target="_blank"}, marking my transition into population data science, administrative data research, machine learning, and advanced statistical analysis. The programme provided training in health informatics, epidemiology, statistics, machine learning, and population data science, laying the foundation for my subsequent work in Trusted Research Environments, synthetic data, metadata, and research data infrastructure.
-
-> For the latest updates, connect with me on LinkedIn or follow my blog.
