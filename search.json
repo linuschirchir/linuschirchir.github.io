@@ -109,7 +109,7 @@
     "href": "news.html#september-2026",
     "title": "Linus Chirchir",
     "section": "September 2026",
-    "text": "September 2026\n\n🎓 Accepted PhD Offer at Edinburgh Napier University\nAccepted an unconditional offer to undertake a PhD in Health and Social Care at Edinburgh Napier University, commencing in October 2026. The PhD is supported by an Edinburgh Napier University studentship. My research project, Using Nationally Representative Data to Understand the Nursing and Midwifery Professions in the United Kingdom, will use nationally representative data to investigate the nursing and midwifery professions in the UK and generate evidence to inform workforce research, policy, and planning. The PhD will be supervised by Professor Iain Atherton, Dr William L. Palmer, and Dr Martin Sharp."
+    "text": "September 2026\n\n📝 Accepted PhD Offer at Edinburgh Napier University\nAccepted an unconditional offer to undertake a PhD in Health and Social Care at Edinburgh Napier University, commencing in October 2026. The PhD is supported by an Edinburgh Napier University studentship. My research project, Using Nationally Representative Data to Understand the Nursing and Midwifery Professions in the United Kingdom, will use nationally representative data to investigate the nursing and midwifery professions in the UK and generate evidence to inform workforce research, policy, and planning. The PhD will be supervised by Professor Iain Atherton, Dr William L. Palmer, and Dr Martin Sharp."
   },
   {
     "objectID": "news.html#july-2026",
@@ -144,7 +144,7 @@
     "href": "news.html#march-2026",
     "title": "Linus Chirchir",
     "section": "March 2026",
-    "text": "March 2026\n\n💷 Awarded UKRI CaSDaR Funding as Principal Investigator\nAwarded £64,508.43 as Principal Investigator for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces – A Collaborative, Cross-Organisation Pilot through the UKRI-funded Careers and Skills for Data-Driven Research (CaSDaR) Network+ Research Technical Professional Call. FRAME-DS was one of four projects selected for funding from 24 applications submitted to the competitive £70,000 funding stream, as announced by the CaSDaR Network+. Delivered collaboratively by Research Data Scotland and Electronic Data Research and Innovation Service (eDRIS) at Public Health Scotland, the project explores how applied data stewardship can be recognised, supported, and strengthened across TREs."
+    "text": "March 2026\n\n💷 Awarded UKRI CaSDaR Funding as Principal Investigator\nAwarded £64,508.43 as Principal Investigator for FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces, one of four projects selected from 24 applications through the UKRI-funded CaSDaR Network+. Delivered collaboratively by Research Data Scotland and Electronic Data Research and Innovation Service (eDRIS) at Public Health Scotland, FRAME-DS focuses on recognising and strengthening applied data stewardship across Trusted Research Environments (TREs)."
   },
   {
     "objectID": "news.html#december-2025",
@@ -158,7 +158,7 @@
     "href": "news.html#november-2025",
     "title": "Linus Chirchir",
     "section": "November 2025",
-    "text": "November 2025\n\n📊 Awarded RSS Graduate Statistician Status\nAwarded Graduate Statistician (GradStat) status by the Royal Statistical Society."
+    "text": "November 2025\n\n📊 Achieved RSS Graduate Statistician Status\nAwarded Graduate Statistician (GradStat) status by the Royal Statistical Society."
   },
   {
     "objectID": "news.html#october-2025",
@@ -179,7 +179,14 @@
     "href": "news.html#june-2025",
     "title": "Linus Chirchir",
     "section": "June 2025",
-    "text": "June 2025\n\n🔐 Completed ONS Safe Researcher Training\nSuccessfully completed the Office for National Statistics (ONS) Safe Researcher Training and subsequently contributed to the delivery of training sessions supporting researchers working within Trusted Research Environments."
+    "text": "June 2025\n\n🔐 Completed ONS Safe Researcher Training\nSuccessfully completed the Office for National Statistics (ONS) Safe Researcher Training and subsequently contributed to the delivery of training sessions supporting researchers working within Trusted Research Environments.\n\n\n🔗 Completed Privacy-Preserving Record Linkage Workshop\nParticipated in the Privacy-Preserving Record Linkage Workshop delivered by ADR Scotland on 3–4 June 2025 at the Edinburgh Futures Institute, University of Edinburgh. The two-day workshop covered the concepts, methods, limitations, and real-world applications of privacy-preserving record linkage (PPRL), including practical and research perspectives from experts in the field."
+  },
+  {
+    "objectID": "news.html#may-2025",
+    "href": "news.html#may-2025",
+    "title": "Linus Chirchir",
+    "section": "May 2025",
+    "text": "May 2025\n\n🌿 Completed Version Control with Git and GitHub Training\nCompleted a practical Version Control with Git and GitHub training session on 29 May 2025, covering version control principles, branching, merging, collaborative workflows, and open science practices. The training strengthened my use of Git and GitHub for reproducible, transparent, and collaborative research and data science workflows. Training materials are available on GitHub."
   },
   {
     "objectID": "news.html#april-2025",
@@ -189,18 +196,39 @@
     "text": "April 2025\n\n📰 Featured by Research Data Scotland\nFeatured in a Research Data Scotland “Five-Minute Profile” interview discussing my career journey, research interests, and work in administrative data, synthetic data, and research infrastructure. Read the interview"
   },
   {
+    "objectID": "news.html#february-2025",
+    "href": "news.html#february-2025",
+    "title": "Linus Chirchir",
+    "section": "February 2025",
+    "text": "February 2025\n\n💻 Completed R for Health Data Research Course\nCompleted the Beginner, Intermediate and Advanced R for Health Data Research course delivered by Health Data Research UK (HDR UK) and led by Dr Ewan Carr, from 21 January to 11 February 2025. The course provided practical training in R for health data research, progressing from beginner to advanced techniques. Course materials."
+  },
+  {
     "objectID": "news.html#december-2024",
     "href": "news.html#december-2024",
     "title": "Linus Chirchir",
     "section": "December 2024",
-    "text": "December 2024\n\n📊 Awarded RSS Data Analyst Status\nAwarded Data Analyst status by the Royal Statistical Society."
+    "text": "December 2024\n\n📊 Achieved RSS Data Analyst Status\nAwarded Data Analyst status by the Royal Statistical Society."
+  },
+  {
+    "objectID": "news.html#november-2024",
+    "href": "news.html#november-2024",
+    "title": "Linus Chirchir",
+    "section": "November 2024",
+    "text": "November 2024\n\n📚 Completed Introduction to Administrative Data Research and Analysis (IADRA)\nCompleted the Introduction to Administrative Data Research and Analysis (IADRA) course delivered by ADR Scotland. The four-week programme combined expert-led lectures with practical R exercises using synthetic data from the Scottish Longitudinal Study (SLS), covering data provenance, record linkage, data quality, visualisation, and analysis of linked administrative data."
   },
   {
     "objectID": "news.html#september-2024",
     "href": "news.html#september-2024",
     "title": "Linus Chirchir",
     "section": "September 2024",
-    "text": "September 2024\n\n🔬 Joined Research Data Scotland\nJoined Research Data Scotland as a Data Analyst, supporting the preparation, documentation, governance, and reuse of administrative datasets for research within Scotland’s National Safe Haven. My work focuses on metadata, synthetic data, reproducible analytical pipelines, and research data infrastructure that support population and social science research."
+    "text": "September 2024\n\n🧬 Completed Workshop on Synthetic Data and Synthpop\nParticipated in the Synthetic Data Workshop, led by Professor Gillian Raab on 5 September 2024. The hands-on workshop introduced the synthpop package in R and covered the creation of synthetic versions of confidential datasets, low- and high-fidelity synthetic data, and practical approaches to data confidentiality. The workshop strengthened my understanding of synthetic data generation and its responsible use in research environments, particularly for supporting data privacy, reproducibility, and safe access to sensitive data.\n\n\n🔬 Joined Research Data Scotland\nJoined Research Data Scotland as a Data Analyst, supporting the preparation, documentation, governance, and reuse of administrative datasets for research within Scotland’s National Safe Haven. My work focuses on metadata, synthetic data, reproducible analytical pipelines, and research data infrastructure that support population and social science research."
+  },
+  {
+    "objectID": "news.html#august-2024",
+    "href": "news.html#august-2024",
+    "title": "Linus Chirchir",
+    "section": "August 2024",
+    "text": "August 2024\n\n📊 Completed Workshop on Efficient Large-Scale Data Processing in R\nParticipated in the workshop “Processing Large-Scale Data Efficiently: An Introduction to the R Package data.table”, delivered by Dr Andreas Hoehn on 15 August 2024. The workshop covered efficient data manipulation, memory management, benchmarking, parallel processing, and practical techniques for working with large datasets in R. The training strengthened my use of data.table for high-performance data processing and helped improve the efficiency of analytical workflows involving large datasets. Workshop materials, slides, and code examples are available on GitHub."
   },
   {
     "objectID": "news.html#september-2023",
@@ -221,7 +249,7 @@
     "href": "news.html#january-2022",
     "title": "Linus Chirchir",
     "section": "January 2022",
-    "text": "January 2022\n\n🚀 Began MSc in Health Data Science\nStarted the MSc in Health Data Science at Swansea University, marking my transition into population data science, administrative data research, machine learning, and advanced statistical analysis. The programme provided training in health informatics, epidemiology, statistics, machine learning, and population data science, laying the foundation for my subsequent work in Trusted Research Environments, synthetic data, metadata, and research data infrastructure.\n\nFor the latest updates, connect with me on LinkedIn or follow my blog."
+    "text": "January 2022\n\n🚀 Began MSc in Health Data Science\nStarted the MSc in Health Data Science at Swansea University, marking my transition into population data science, administrative data research, machine learning, and advanced statistical analysis. The programme provided training in health informatics, epidemiology, statistics, machine learning, and population data science, laying the foundation for my subsequent work in Trusted Research Environments, synthetic data, metadata, and research data infrastructure."
   },
   {
     "objectID": "accessibility.html",
