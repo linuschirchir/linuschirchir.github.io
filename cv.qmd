@@ -14,7 +14,7 @@ anchor-sections: true
 </h1>
 
 <p style="text-align: center; line-height: 1.2; margin: 0.25rem 0 0.5rem 0;">
-  Population and Health Data Scientist<br>
+  Data Analyst | Doctoral Researcher | Nursing, Population & Health Data Science<br>
   Edinburgh, Scotland, United Kingdom
 </p>
 
@@ -51,11 +51,13 @@ anchor-sections: true
 
 ## <i class="fas fa-user"></i> Personal Profile
 
-Population and Health Data Scientist specialising in the preparation, documentation, linkage, and analysis of large-scale administrative datasets across health, education, and social research. Combination of academic qualifications and applied experience in UK Trusted Research Environments (TREs), synthetic data, metadata, and research data infrastructure to support evidence-informed research, policy, and public benefit.
+**Personal Profile**
+
+Data Analyst at Research Data Scotland and Doctoral Researcher at Edinburgh Napier University, specialising in administrative data for population and health research. My doctoral research uses linked data to understand the nursing and midwifery professions in the UK and inform workforce planning and policy. My experience spans Trusted Research Environments, synthetic data, metadata, reproducible analytical pipelines and data stewardship. I combine health data science and information systems expertise to support research that informs policy and delivers public benefit.
 
 ## <i class="fas fa-search"></i> Research Interests
 
-Population health, health inequalities, life-course analysis, social determinants of health, nursing and midwifery workforce research, administrative data research, record linkage, longitudinal data analysis, TREs, synthetic data, metadata, data stewardship, research data infrastructure, machine learning, and evidence-informed policy.
+Nursing and midwifery workforce research; population health and health inequalities; internationally trained health professionals; administrative data and record linkage; longitudinal data analysis; Trusted Research Environments; synthetic data; metadata and data stewardship; reproducible analytical methods; and machine learning for health research.
 
 ## <i class="fas fa-briefcase"></i> Work Experience
 
@@ -134,6 +136,16 @@ Population health, health inequalities, life-course analysis, social determinant
 -  **Courses Taught:** Introduction to Computer Science, Introduction to Computers and Computing, Introduction to Internet and Web Design, Intermediate Hypertext Mark-up Language, Operating Systems, Data Communication and Computer Networks, Decision Support Systems and Expert Systems, Advanced Database Systems.
 
 ## <i class="fas fa-graduation-cap"></i> Education
+
+::: {.d-inline-flex style="align-items:baseline"}
+::: p-2
+[![](images/enu_logo.png){width="80px" fig-alt="RDS Logo"}](https://www.napier.ac.uk/research-and-innovation/doctoral-college/phd)
+:::
+
+::: h3
+[Edinburgh Napier University](https://www.napier.ac.uk/research-and-innovation/doctoral-college/phd){target="_blank"}, Edinburgh, United Kingdom, Doctor of Philosophy in Health and Social Care, 10/2026 - 10/2029
+:::
+:::
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: p-2

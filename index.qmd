@@ -1,7 +1,7 @@
 ---
 title: "Linus Chirchir" 
 subtitle: |
-  <h5 style="text-align: center;">Research Data | Data Science | Trusted Research Environments</h5>
+  <h5 style="text-align: center;">Population & Health Data Science | Nursing & Midwifery Workforce | Data Stewardship</h5>
 image: images/profile.jpg
 image-alt: "Profile Image"
 about:
@@ -37,13 +37,11 @@ execute:
 ---
 
 ::: {#hero-heading}
-I am a Data Analyst at [Research Data Scotland](https://www.researchdata.scot/about-rds/our-people/){target="_blank"} with a strong interest in data-driven research, Trusted Research Environments (TREs), data governance, and the responsible use of data for public benefit. Read my five-minute profile interview with Research Data Scotland [here](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}.
+I am a Data Analyst at [Research Data Scotland (RDS)](https://www.researchdata.scot/about-rds/our-people/){target="_blank"} and a Doctoral Researcher at the [School of Health and Social Care, Edinburgh Napier University](https://www.napier.ac.uk/about-us/our-schools/the-school-of-health-and-social-care){target="_blank"}. My work and research bring together population and health data science, nursing and midwifery workforce research, and data stewardship.
 
-My work focuses on improving access to, understanding of, and value from complex administrative and health-related datasets. I contribute to the development of data pipelines, metadata standards, synthetic data solutions, research data services, and analytical tools that support researchers, policymakers, and public sector organisations.
+I am undertaking a [PhD in Health and Social Care](https://www.napier.ac.uk/research-and-innovation/doctoral-college/phd){target="_blank"}. My project, [Using Nationally Representative Data to Understand the Nursing and Midwifery Professions in the United Kingdom](https://www.findaphd.com/phds/project/using-nationally-representative-data-to-understand-the-nursing-and-midwifery-professions-in-the-united-kingdom-shsc0061/?p184975){target="_blank"}, uses linked administrative and population data to inform workforce planning and policy. Within this research, I have a particular interest in internationally trained professionals and their contribution to the UK health workforce.
 
-I have expertise in data management, statistical analysis, data visualisation, reproducible research, and research data infrastructure. My technical toolkit includes R, SQL, PostgreSQL, Git, GitHub, Tableau, Power BI, QGIS, SPSS, and advanced Excel, alongside modern reproducible reporting and publishing tools such as Quarto.
+At RDS, my work spans data preparation, metadata, synthetic data, reproducible analytical pipelines within Trusted Research Environments (TREs) and data stewardship. I help make complex administrative and health-related datasets easier to understand and use for research. Read more about my background in my [five-minute profile interview with RDS](https://www.researchdata.scot/news-and-insights/five-minute-profile-interview-with-linus-chirchir/){target="_blank"}.
 
-My interests span data science, artificial intelligence, machine learning, synthetic data, metadata, and data stewardship. I am particularly passionate about strengthening the research data ecosystem by improving data quality, transparency, accessibility, and trust.
-
-Through my work and research, I aim to help unlock the potential of data to support evidence-informed decision-making, advance scientific discovery, and deliver meaningful societal impact.
+I also lead [FRAME-DS: Framework for Recognising Applied Data Stewardship Within TRE Workforces - A Collaborative, Cross-Organisation Pilot](https://casdar.ac.uk/announcing-the-results-of-casdars-funding-call-round-1/){target="_blank"}, a project funded through [CaSDaR Network+](https://casdar.ac.uk/about/){target="_blank"} (Careers and Skills for Data-driven Research) to develop a framework and toolkit for recognising and supporting applied data stewardship within TRE workforces.
 :::
